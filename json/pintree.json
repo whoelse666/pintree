@@ -1044,6 +1044,27 @@
             "title": "Gemini",
             "icon": "https://logo.clearbit.com/gemini.google.com",
             "url": "https://gemini.google.com/app"
+          },
+          {
+            "type": "link",
+            "addDate": 1736951380069,
+            "title": "NextChat",
+            "icon": "https://logo.clearbit.com/next-chat-five-ruddy-50.vercel.app",
+            "url": "https://next-chat-five-ruddy-50.vercel.app/"
+          },
+          {
+            "type": "link",
+            "addDate": 1737034776979,
+            "title": "通义 音视频提取文字",
+            "icon": "https://logo.clearbit.com/tongyi.aliyun.com",
+            "url": "https://tongyi.aliyun.com/efficiency/"
+          },
+          {
+            "type": "link",
+            "addDate": 1737036247996,
+            "title": "音视频提取文字 字幕 Sider: ChatGPT 侧边栏 + GPT-4o, Claude 3.5, Gemini 1.5 和 AI 工具",
+            "icon": "https://logo.clearbit.com/sider.ai",
+            "url": "https://sider.ai/tools/video/AI-video-shortener"
           }
         ]
       },
@@ -2199,6 +2220,27 @@
             "title": "abi/screenshot-to-code：图片转化代码",
             "icon": "https://logo.clearbit.com/github.com",
             "url": "https://github.com/abi/screenshot-to-code"
+          },
+          {
+            "type": "folder",
+            "addDate": 1737169321520,
+            "title": "julebu",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1737169303233,
+                "title": "在线文本格式化工具",
+                "icon": "https://logo.clearbit.com/miniwebtool.com",
+                "url": "https://miniwebtool.com/zh-cn/text-formatter/"
+              },
+              {
+                "type": "link",
+                "addDate": 1737169323491,
+                "title": "文本格式化在线，在线文本格式化，文本格式化工具",
+                "icon": "https://logo.clearbit.com/www.text-format.com",
+                "url": "https://www.text-format.com/zh#google_vignette"
+              }
+            ]
           }
         ]
       },
@@ -2480,10 +2522,10 @@
               },
               {
                 "type": "link",
-                "addDate": 1732369646481,
-                "title": "编译详情 - 物联网云平台 - 润联行云",
+                "addDate": 1736922755492,
+                "title": "应用概览 - 物联网云平台 - 润联行云",
                 "icon": "https://logo.clearbit.com/steam.crcloud.com",
-                "url": "https://steam.crcloud.com/3/project/1439/#/build/11896/detail/34133?runId=1811063"
+                "url": "https://steam.crcloud.com/3/project/1439/#/integration/11896/dashboard"
               }
             ]
           },
@@ -2493,6 +2535,13 @@
             "title": "华润",
             "icon": "https://logo.clearbit.com/mima.crc.com.cn",
             "url": "https://mima.crc.com.cn/self-service/login_check/checkUserSecurityInfo/1"
+          },
+          {
+            "type": "link",
+            "addDate": 1732699649495,
+            "title": "华润数科数字化运营平台-工时",
+            "icon": "https://logo.clearbit.com/talent.crcloud.com",
+            "url": "https://talent.crcloud.com/#/myWeekly?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MzI3ODUxODQsInVzZXJJZCI6IjEwMDUxMzc3MjMyNzgwODIwNDgifQ.Go5TKW6hqmR31Wnj1_tqNPeCVOffISF4vIekQiUReKs"
           },
           {
             "type": "link",
@@ -2619,13 +2668,6 @@
             "title": "iconfont-阿里巴巴矢量图标库",
             "icon": "https://logo.clearbit.com/www.iconfont.cn",
             "url": "https://www.iconfont.cn/manage/index?manage_type=myprojects&projectId=4750487"
-          },
-          {
-            "type": "link",
-            "addDate": 1732699649495,
-            "title": "华润数科数字化运营平台-工时",
-            "icon": "https://logo.clearbit.com/talent.crcloud.com",
-            "url": "https://talent.crcloud.com/#/myWeekly?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MzI3ODUxODQsInVzZXJJZCI6IjEwMDUxMzc3MjMyNzgwODIwNDgifQ.Go5TKW6hqmR31Wnj1_tqNPeCVOffISF4vIekQiUReKs"
           },
           {
             "type": "link",
@@ -4157,13 +4199,6 @@
                   },
                   {
                     "type": "link",
-                    "addDate": 1720941958311,
-                    "title": "Sepolia PoW Faucet",
-                    "icon": "https://logo.clearbit.com/sepolia-faucet.pk910.de",
-                    "url": "https://sepolia-faucet.pk910.de/"
-                  },
-                  {
-                    "type": "link",
                     "addDate": 1720941974041,
                     "title": "Sepolia 测试网 - Sepolia Transaction Hash (Txhash) Details | Etherscan",
                     "icon": "https://logo.clearbit.com/sepolia.etherscan.io",
@@ -4256,7 +4291,7 @@
                   {
                     "type": "link",
                     "addDate": 1716559579039,
-                    "title": "alchemy 以太坊 Sepolia 水龙头 --- Ethereum Sepolia Faucet",
+                    "title": "alchemy 以太坊 Sepolia 水龙头 al  --- Ethereum Sepolia Faucet",
                     "icon": "https://logo.clearbit.com/www.alchemy.com",
                     "url": "https://www.alchemy.com/faucets/ethereum-sepolia"
                   },
@@ -4336,6 +4371,20 @@
                     "title": "免费测试网水龙头",
                     "icon": "https://logo.clearbit.com/attractive-spade-1e3.notion.site",
                     "url": "https://attractive-spade-1e3.notion.site/f4e32eb437fa41bd8b5730485f671f89"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1736921022279,
+                    "title": "水龙头 Sepolia ETH   |MetaMask 开发人员文档 --- Faucet | MetaMask developer documentation",
+                    "icon": "https://logo.clearbit.com/docs.metamask.io",
+                    "url": "https://docs.metamask.io/developer-tools/faucet/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1736921263252,
+                    "title": "测试网代币  水龙头 多个Sepolia Faucet - 获取测试网代币 --- Optimism Sepolia Faucet - Get Testnet Tokens",
+                    "icon": "https://logo.clearbit.com/faucets.chain.link",
+                    "url": "https://faucets.chain.link/optimism-sepolia?_gl=1*1c148rb*_ga*OTU0NDQ5MDU0LjE3MzY5MjEwOTc.*_ga_8LKS5QFB97*MTczNjkyMTA5Ny4xLjEuMTczNjkyMTE3MC4wLjAuMA.."
                   }
                 ]
               },
@@ -4479,7 +4528,7 @@
                   {
                     "type": "link",
                     "addDate": 1726416140337,
-                    "title": "首页 |煎饼交换 --- Home | PancakeSwap",
+                    "title": "首页 |煎饼交换 --- dapp pan | PancakeSwap ",
                     "icon": "https://logo.clearbit.com/pancakeswap.finance",
                     "url": "https://pancakeswap.finance/"
                   },
@@ -6521,6 +6570,55 @@
                 "title": "Cuiswap Interface",
                 "icon": "https://logo.clearbit.com/fankouzu.github.io",
                 "url": "https://fankouzu.github.io/cuiswap/#/swap"
+              },
+              {
+                "type": "link",
+                "addDate": 1736920804953,
+                "title": "Luboy23/foundry_advanced_turtorial: 主要想做一些使用 foundry 开发智能合约的教程，这个教程将不会包含很多基础的 Solidity 教程，更多的是如何提升开发效率，以最快最简单的时间完成智能合约的编写。同时如果有余力的话也会结合 zkp 来写智能合约，大家有什么问题也欢迎给我留言，我会尽量在视频中回复并解答大家的问题，谢谢",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/Luboy23/foundry_advanced_turtorial/tree/main"
+              },
+              {
+                "type": "link",
+                "addDate": 1736920906323,
+                "title": "Ethereum 单位转换器 |以太到 Gwei、Wei、Finney、Szabo、Shannon 等。 --- Ethereum Unit Converter | Ether to Gwei, Wei, Finney, Szabo, Shannon etc.",
+                "icon": "https://logo.clearbit.com/eth-converter.com",
+                "url": "https://eth-converter.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1736958249605,
+                "title": "好用的区块链工具箱",
+                "icon": "https://logo.clearbit.com/mct.xyz",
+                "url": "https://mct.xyz/"
+              },
+              {
+                "type": "link",
+                "addDate": 1736994085975,
+                "title": "链栈 --- Chainstack 节点网络部署",
+                "icon": "https://logo.clearbit.com/console.chainstack.com",
+                "url": "https://console.chainstack.com/projects"
+              },
+              {
+                "type": "link",
+                "addDate": 1737095061145,
+                "title": "opbnb 浏览器 opbnb-testnet.bscscan.com/address",
+                "icon": "https://logo.clearbit.com/opbnb-testnet.bscscan.com",
+                "url": "https://opbnb-testnet.bscscan.com/address/0x429bE80afd87d207345F062A726cFc670Fbb9415#internaltx"
+              },
+              {
+                "type": "link",
+                "addDate": 1737095186522,
+                "title": "bnb  to  opbnb",
+                "icon": "https://logo.clearbit.com/opbnb-testnet-bridge.bnbchain.org",
+                "url": "https://opbnb-testnet-bridge.bnbchain.org/history?type=deposit&p=1"
+              },
+              {
+                "type": "link",
+                "addDate": 1737095269650,
+                "title": "Chainstack 多链水龙头 --- Chainstack multichain faucet",
+                "icon": "https://logo.clearbit.com/faucet.chainstack.com",
+                "url": "https://faucet.chainstack.com/"
               }
             ]
           },
@@ -9938,6 +10036,20 @@
                     "title": "JohnsenZhou/Front-End-Performance-Checklist: 🎮 前端性能清单，让你的网站跑的更快",
                     "icon": "https://logo.clearbit.com/github.com",
                     "url": "https://github.com/JohnsenZhou/Front-End-Performance-Checklist#javascript"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1736992555278,
+                    "title": "前端性能优化核心点全面解析，高级前端专家传授涨薪高分面能力 - 飞书云文档",
+                    "icon": "https://logo.clearbit.com/u19tul1sz9g.feishu.cn",
+                    "url": "https://u19tul1sz9g.feishu.cn/docx/NdqqdIX4hoQiIsxR2fecr7ZLnsc"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1736992613995,
+                    "title": "前端性能优化核心点全面解析，高级前端专家传授涨薪高分面能力  手机观看",
+                    "icon": "https://logo.clearbit.com/apptpoasvdl3817.pc.xiaoe-tech.com",
+                    "url": "https://apptpoasvdl3817.pc.xiaoe-tech.com/detail/l_6784ea34e4b0694c5a7ffbd5/4"
                   }
                 ]
               },
@@ -10064,13 +10176,6 @@
                     "title": "bubucuo/DebugReact: 调试react源码",
                     "icon": "https://logo.clearbit.com/github.com",
                     "url": "https://github.com/bubucuo/DebugReact"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1680068080834,
-                    "title": "React18源码文件指引-ProcessOn",
-                    "icon": "https://logo.clearbit.com/www.processon.com",
-                    "url": "https://www.processon.com/view/link/60b206c2e0b34d3841931a88"
                   },
                   {
                     "type": "link",
@@ -10659,6 +10764,13 @@
                     "title": "Rax - 快速构建多端应用",
                     "icon": "https://logo.clearbit.com/rax.js.org",
                     "url": "https://rax.js.org/docs/guide/app-engineer"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1736908934285,
+                    "title": "密码  bubucuoReact18源码文件指引| ProcessOn免费在线作图,在线流程图,在线思维导图",
+                    "icon": "https://logo.clearbit.com/www.processon.com",
+                    "url": "https://www.processon.com/view/link/60b206c2e0b34d3841931a88?password=bubucuo"
                   }
                 ]
               },
@@ -12740,6 +12852,13 @@
                 "title": "前端  ui  Aceternity UI",
                 "icon": "https://logo.clearbit.com/ui.aceternity.com",
                 "url": "https://ui.aceternity.com/components/macbook-scroll"
+              },
+              {
+                "type": "link",
+                "addDate": 1688631372970,
+                "title": "使用 JavaScript 和表情符号动画 URL  url 动画 - Animating URLs with Javascript and Emojis",
+                "icon": "https://logo.clearbit.com/matthewrayfield.com",
+                "url": "https://matthewrayfield.com/articles/animating-urls-with-javascript-and-emojis/#%F0%9F%8C%95%F0%9F%8C%95%F0%9F%8C%95%F0%9F%8C%95%F0%9F%8C%95%F0%9F%8C%95%F0%9F%8C%96%F0%9F%8C%91%F0%9F%8C%91%F0%9F%8C%91"
               }
             ]
           },
@@ -14935,7 +15054,7 @@
               {
                 "type": "link",
                 "addDate": 1606380979036,
-                "title": "Snapdrop",
+                "title": "Snapdrop 局域网传输",
                 "icon": "https://logo.clearbit.com/snapdrop.net",
                 "url": "https://snapdrop.net/"
               },
@@ -15267,6 +15386,27 @@
                 "title": "Alchemy",
                 "icon": "https://logo.clearbit.com/github.com",
                 "url": "https://github.com/alchemyplatform"
+              },
+              {
+                "type": "link",
+                "addDate": 1736951301463,
+                "title": "NextChat  一键免费部署你的私人 ChatGPT 网页应用，支持 GPT3, GPT4 & Gemini Pro 模型。",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/ChatGPTNextWeb/NextChat/blob/main/README_CN.md"
+              },
+              {
+                "type": "link",
+                "addDate": 1736994464613,
+                "title": "网易云音乐 API",
+                "icon": "https://logo.clearbit.com/gitlab.com",
+                "url": "https://gitlab.com/Binaryify/neteasecloudmusicapi"
+              },
+              {
+                "type": "link",
+                "addDate": 1737080409225,
+                "title": "简介 - Formily --表单场景 解决方案",
+                "icon": "https://logo.clearbit.com/formilyjs.org",
+                "url": "https://formilyjs.org/guide"
               }
             ]
           },
@@ -15764,6 +15904,13 @@
                 "title": "Aide | 在 VSCode 中征服任何代码",
                 "icon": "https://logo.clearbit.com/aide.nicepkg.cn",
                 "url": "https://aide.nicepkg.cn/zh/"
+              },
+              {
+                "type": "link",
+                "addDate": 1737166611484,
+                "title": "Roo Cline - Visual Studio Marketplace",
+                "icon": "https://logo.clearbit.com/marketplace.visualstudio.com",
+                "url": "https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline"
               }
             ]
           },
@@ -16077,6 +16224,27 @@
                     "title": "Git History",
                     "icon": "https://logo.clearbit.com/githistory.xyz",
                     "url": "https://githistory.xyz/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1736908869990,
+                "title": "谷歌插件",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1736908846970,
+                    "title": "网页性能分析-micmro/performance-bookmarklet: Performance-Bookmarklet helps to analyze the current page through the Resource Timing API, Navigation Timing API and User-Timing - requests by type, domain, load times, marks and more. Sort of a light live WebPageTest.",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/micmro/performance-bookmarklet"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1737034006319,
+                    "title": "Sider: ChatGPT 侧边栏 + GPT-4o, Claude 3.5, Gemini 1.5 & AI工具 - Chrome 应用商店",
+                    "icon": "https://logo.clearbit.com/chromewebstore.google.com",
+                    "url": "https://chromewebstore.google.com/detail/sider-chatgpt-%E4%BE%A7%E8%BE%B9%E6%A0%8F-+-gpt-4/difoiogjjojoaoomphldepapgpbgkhkb"
                   }
                 ]
               }
@@ -16753,6 +16921,13 @@
             "title": "PDF 制卡",
             "icon": "https://logo.clearbit.com/guru.kevin2li.top",
             "url": "https://guru.kevin2li.top/docs/intro"
+          },
+          {
+            "type": "link",
+            "addDate": 1737022389337,
+            "title": "提取视频图片",
+            "icon": "https://logo.clearbit.com/snapany.com",
+            "url": "https://snapany.com/zh/bilibili"
           }
         ]
       },
@@ -23872,13 +24047,6 @@
         "title": "url 动效 Animating URLs with Javascript and Emojis",
         "icon": "https://logo.clearbit.com/matthewrayfield.com",
         "url": "https://matthewrayfield.com/articles/animating-urls-with-javascript-and-emojis/#%F0%9F%8C%95%F0%9F%8C%95%F0%9F%8C%95%F0%9F%8C%95%F0%9F%8C%95%F0%9F%8C%95%F0%9F%8C%95%F0%9F%8C%97%F0%9F%8C%91%F0%9F%8C%91"
-      },
-      {
-        "type": "link",
-        "addDate": 1688631372970,
-        "title": "url 动画 - Animating URLs with Javascript and Emojis",
-        "icon": "https://logo.clearbit.com/matthewrayfield.com",
-        "url": "https://matthewrayfield.com/articles/animating-urls-with-javascript-and-emojis/#%F0%9F%8C%95%F0%9F%8C%95%F0%9F%8C%95%F0%9F%8C%95%F0%9F%8C%95%F0%9F%8C%95%F0%9F%8C%96%F0%9F%8C%91%F0%9F%8C%91%F0%9F%8C%91"
       },
       {
         "type": "link",

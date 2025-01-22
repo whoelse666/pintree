@@ -890,6 +890,20 @@
             "title": "注册丨AI 音视频知行助理：BibiGPT 一键总结 B 站、YouTube、播客、本地视频 | 免费试用 | 移动端微信助理",
             "icon": "https://logo.clearbit.com/bibigpt.co",
             "url": "https://bibigpt.co/r/fJNbc6"
+          },
+          {
+            "type": "link",
+            "addDate": 1737459854009,
+            "title": "Synthflow AI：用 AI 语音代理自动拨打电话 --- Synthflow AI: Automate phone calls with AI voice agents",
+            "icon": "https://logo.clearbit.com/synthflow.ai",
+            "url": "https://synthflow.ai/"
+          },
+          {
+            "type": "link",
+            "addDate": 1737517985014,
+            "title": "雅思口语专家",
+            "icon": "https://logo.clearbit.com/www.coze.cn",
+            "url": "https://www.coze.cn/template/agent/7389299390185209892?"
           }
         ]
       },
@@ -1065,6 +1079,13 @@
             "title": "音视频提取文字 字幕 Sider: ChatGPT 侧边栏 + GPT-4o, Claude 3.5, Gemini 1.5 和 AI 工具",
             "icon": "https://logo.clearbit.com/sider.ai",
             "url": "https://sider.ai/tools/video/AI-video-shortener"
+          },
+          {
+            "type": "link",
+            "addDate": 1737519166400,
+            "title": "myChatAI - Powered by Dify",
+            "icon": "https://logo.clearbit.com/cloud.dify.ai",
+            "url": "https://cloud.dify.ai/explore/installed/395feaee-1631-44df-93e3-c8cacd87cd8f"
           }
         ]
       },
@@ -12859,6 +12880,13 @@
                 "title": "使用 JavaScript 和表情符号动画 URL  url 动画 - Animating URLs with Javascript and Emojis",
                 "icon": "https://logo.clearbit.com/matthewrayfield.com",
                 "url": "https://matthewrayfield.com/articles/animating-urls-with-javascript-and-emojis/#%F0%9F%8C%95%F0%9F%8C%95%F0%9F%8C%95%F0%9F%8C%95%F0%9F%8C%95%F0%9F%8C%95%F0%9F%8C%96%F0%9F%8C%91%F0%9F%8C%91%F0%9F%8C%91"
+              },
+              {
+                "type": "link",
+                "addDate": 1737459546130,
+                "title": "Sealos DevBox - 云原生在线开发环境",
+                "icon": "https://logo.clearbit.com/ads.sealos.run",
+                "url": "https://ads.sealos.run/app_store/tool/devbox/"
               }
             ]
           },
@@ -25090,6 +25118,13 @@
         "title": "发个东西 - 局域网文字/文件P2P传输工具",
         "icon": "https://logo.clearbit.com/fagedongxi.com",
         "url": "https://fagedongxi.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1737459714887,
+        "title": "如何恢复使用 Cursor 免费试用",
+        "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
+        "url": "https://mp.weixin.qq.com/s/oQuLXpUzSdBe1LwlQCPjTw"
       }
     ]
   },

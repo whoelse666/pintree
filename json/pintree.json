@@ -1,7 +1,7 @@
 [
   {
     "type": "folder",
-    "addDate": 1694786009819,
+    "addDate": 1743774996120,
     "title": "书签栏",
     "children": [
       {
@@ -29,13 +29,6 @@
             "title": "bolt.new",
             "icon": "https://logo.clearbit.com/bolt.new",
             "url": "https://bolt.new/"
-          },
-          {
-            "type": "link",
-            "addDate": 1709358074245,
-            "title": "NextChat",
-            "icon": "https://logo.clearbit.com/app.nextchat.dev",
-            "url": "https://app.nextchat.dev/"
           },
           {
             "type": "link",
@@ -960,6 +953,27 @@
             "title": "码上飞 CodeFlying | AI 智能软件开发平台！",
             "icon": "https://logo.clearbit.com/www.codeflying.net",
             "url": "https://www.codeflying.net/app/#/appliCation?appid=34238"
+          },
+          {
+            "type": "link",
+            "addDate": 1742395065388,
+            "title": "Qwen",
+            "icon": "https://logo.clearbit.com/chat.qwen.ai",
+            "url": "https://chat.qwen.ai/"
+          },
+          {
+            "type": "link",
+            "addDate": 1742523686371,
+            "title": "SERPHouse - Google and Bing Search API",
+            "icon": "https://logo.clearbit.com/www.serphouse.com",
+            "url": "https://www.serphouse.com/home"
+          },
+          {
+            "type": "link",
+            "addDate": 1742524126459,
+            "title": "Anthropic Console   claud   apikey",
+            "icon": "https://logo.clearbit.com/console.anthropic.com",
+            "url": "https://console.anthropic.com/dashboard"
           }
         ]
       },
@@ -1147,6 +1161,48 @@
                 "title": "Model Context Protocol",
                 "icon": "https://logo.clearbit.com/github.com",
                 "url": "https://github.com/modelcontextprotocol"
+              },
+              {
+                "type": "link",
+                "addDate": 1742536737733,
+                "title": "MCP Servers",
+                "icon": "https://logo.clearbit.com/mcp.so",
+                "url": "https://mcp.so/"
+              },
+              {
+                "type": "link",
+                "addDate": 1742536743347,
+                "title": "Awesome MCP Servers",
+                "icon": "https://logo.clearbit.com/mcpservers.org",
+                "url": "https://mcpservers.org/"
+              },
+              {
+                "type": "link",
+                "addDate": 1742536757907,
+                "title": "PulseMCP | Keep up-to-date with MCP",
+                "icon": "https://logo.clearbit.com/www.pulsemcp.com",
+                "url": "https://www.pulsemcp.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1743735923554,
+                "title": "vite-plugin-vue-mcp  Vue MCP 服务器 | Glama --- Vue MCP Server | Glama",
+                "icon": "https://logo.clearbit.com/glama.ai",
+                "url": "https://glama.ai/mcp/servers/@webfansplz/vite-plugin-vue-mcp"
+              },
+              {
+                "type": "link",
+                "addDate": 1743736352934,
+                "title": "Vite MCP 服务器 | Glama --- Vite MCP Server | Glama",
+                "icon": "https://logo.clearbit.com/glama.ai",
+                "url": "https://glama.ai/mcp/servers/@ESnark/blowback"
+              },
+              {
+                "type": "link",
+                "addDate": 1744942385417,
+                "title": "Smithery - Model Context Protocol Registry",
+                "icon": "https://logo.clearbit.com/smithery.ai",
+                "url": "https://smithery.ai/"
               }
             ]
           },
@@ -1446,13 +1502,6 @@
           },
           {
             "type": "link",
-            "addDate": 1741152845931,
-            "title": "MGX --- MGX",
-            "icon": "https://logo.clearbit.com/mgx.dev",
-            "url": "https://mgx.dev/"
-          },
-          {
-            "type": "link",
             "addDate": 1741846446856,
             "title": "AingDesk",
             "icon": "https://logo.clearbit.com/www.aingdesk.com",
@@ -1527,6 +1576,125 @@
             "title": "将任何 Git 仓库转换为代码库的简单文本摘要。  Gitingest --- Gitingest",
             "icon": "https://logo.clearbit.com/gitingest.com",
             "url": "https://gitingest.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1741152845931,
+            "title": "MGX  ",
+            "icon": "https://logo.clearbit.com/mgx.dev",
+            "url": "https://mgx.dev/"
+          },
+          {
+            "type": "link",
+            "addDate": 1742477064967,
+            "title": "Eagle DevAgent  源码解读",
+            "icon": "https://logo.clearbit.com/eagle.capitalren.com",
+            "url": "https://eagle.capitalren.com/?thread_id=thread_HIfRs4vdSQybk5kBKBb18ZLJ"
+          },
+          {
+            "type": "link",
+            "addDate": 1742866959150,
+            "title": "秒哒·生成式应用开发平台",
+            "icon": "https://logo.clearbit.com/cloud.baidu.com",
+            "url": "https://cloud.baidu.com/product-s/miaoda_home"
+          },
+          {
+            "type": "link",
+            "addDate": 1742888058387,
+            "title": "低代码 基本信息-CodeWave智能开发平台",
+            "icon": "https://logo.clearbit.com/whoelse.codewave.163.com",
+            "url": "https://whoelse.codewave.163.com/dashboard/achievement/appdetail/info?id=773562ae-d0b0-4267-b37d-a9516139f0f7"
+          },
+          {
+            "type": "link",
+            "addDate": 1588818197162,
+            "title": "在线编辑 The online code editor for web apps. Powered by Visual Studio Code. - StackBlitz",
+            "icon": "https://logo.clearbit.com/stackblitz.com",
+            "url": "https://stackblitz.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1743140937451,
+            "title": "Thetawave AI – Best AI Note Taker for College Students",
+            "icon": "https://logo.clearbit.com/thetawave.ai",
+            "url": "https://thetawave.ai/"
+          },
+          {
+            "type": "link",
+            "addDate": 1744272886810,
+            "title": "本地AI Browser Use WebUI",
+            "icon": "https://logo.clearbit.com/127.0.0.1",
+            "url": "http://127.0.0.1:7788/"
+          },
+          {
+            "type": "link",
+            "addDate": 1744428901781,
+            "title": "FireCrawl 是一款高效的网络爬虫工具",
+            "icon": "https://logo.clearbit.com/www.firecrawl.dev",
+            "url": "https://www.firecrawl.dev/"
+          },
+          {
+            "type": "link",
+            "addDate": 1744431616233,
+            "title": "复制网站-Copy and remix any UI",
+            "icon": "https://logo.clearbit.com/same.new",
+            "url": "https://same.new/"
+          },
+          {
+            "type": "link",
+            "addDate": 1744700925291,
+            "title": "MCP 广场 · 魔搭社区",
+            "icon": "https://logo.clearbit.com/www.modelscope.cn",
+            "url": "https://www.modelscope.cn/mcp"
+          },
+          {
+            "type": "link",
+            "addDate": 1744636086609,
+            "title": "强大的工作流自动化软件与工具 - n8n --- Powerful Workflow Automation Software & Tools - n8n",
+            "icon": "https://logo.clearbit.com/n8n.io",
+            "url": "https://n8n.io/"
+          },
+          {
+            "type": "link",
+            "addDate": 1744774014002,
+            "title": "概览 · 魔搭社区",
+            "icon": "https://logo.clearbit.com/modelscope.cn",
+            "url": "https://modelscope.cn/my/overview"
+          },
+          {
+            "type": "link",
+            "addDate": 1745028996011,
+            "title": "Firebase Studio",
+            "icon": "https://logo.clearbit.com/studio.firebase.google.com",
+            "url": "https://studio.firebase.google.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1745074413530,
+            "title": "提示词优化器",
+            "icon": "https://logo.clearbit.com/prompt.always200.com",
+            "url": "https://prompt.always200.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1745074482383,
+            "title": "linshenkx/prompt-optimizer: 一款提示词优化器，助力于编写高质量的提示词",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/linshenkx/prompt-optimizer"
+          },
+          {
+            "type": "link",
+            "addDate": 1745118309942,
+            "title": "mediar-ai/screenpipe：由 24/7 桌面历史记录驱动的 AI 应用商店。开源 | 100%本地化 | 开发者友好 | 24/7 屏幕、麦克风录制 --- mediar-ai/screenpipe: AI app store powered by 24/7 desktop history. open source | 100% local | dev friendly | 24/7 screen, mic recording",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/mediar-ai/screenpipe"
+          },
+          {
+            "type": "link",
+            "addDate": 1745134482488,
+            "title": "ScriptEcho | AI生成生产级代码 |",
+            "icon": "https://logo.clearbit.com/scriptecho.cn",
+            "url": "https://scriptecho.cn/"
           }
         ]
       },
@@ -2826,7 +2994,7 @@
           {
             "type": "link",
             "addDate": 1740116132327,
-            "title": "要素开发域",
+            "title": "32010  开发  要素开发域",
             "icon": "https://logo.clearbit.com/101.36.138.132",
             "url": "http://101.36.138.132:32010/superba-1/superba/#/home"
           },
@@ -2969,6 +3137,20 @@
             "title": "福建公共数据登记平台-Pixso",
             "icon": "https://logo.clearbit.com/pixso.cn",
             "url": "https://pixso.cn/app/editor/xDGtTcMxS8EOmQRBLkWubQ?page-id=1108%3A5872&editMode=coder"
+          },
+          {
+            "type": "link",
+            "addDate": 1743043638798,
+            "title": "福建省公共数据资源登记平台",
+            "icon": "https://logo.clearbit.com/101.36.138.132",
+            "url": "http://101.36.138.132:32010/fjgg/assetbusinessweb/#/enterprise/home/indexList"
+          },
+          {
+            "type": "link",
+            "addDate": 1743043654740,
+            "title": "32011 福建省公共数据资源登记平台",
+            "icon": "https://logo.clearbit.com/101.36.138.132",
+            "url": "http://101.36.138.132:32011/dengjipoc/assetbusinessweb/#/enterprise/myAssetsList/index"
           }
         ]
       },
@@ -6731,6 +6913,13 @@
                 "title": "CID 检查员 | IPFS --- CID Inspector | IPFS",
                 "icon": "https://logo.clearbit.com/cid.ipfs.tech",
                 "url": "https://cid.ipfs.tech/#QmSnuWmxptJZdLJpKRarxBMS2Ju2oANVrgbr2xWbie9b2D"
+              },
+              {
+                "type": "link",
+                "addDate": 1743489724198,
+                "title": "Gitcoin | 资助你社区关注的事 --- Gitcoin | Fund What Matters To Your Community",
+                "icon": "https://logo.clearbit.com/www.gitcoin.co",
+                "url": "https://www.gitcoin.co/"
               }
             ]
           },
@@ -10169,6 +10358,13 @@
                     "title": "next-study: 一头扎进 Next.js 系列",
                     "icon": "https://logo.clearbit.com/gitee.com",
                     "url": "https://gitee.com/ifercarly/next-study"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1742785783704,
+                    "title": "whoelse/next-study - Gitee.com",
+                    "icon": "https://logo.clearbit.com/gitee.com",
+                    "url": "https://gitee.com/who-else/next-study/branches"
                   }
                 ]
               },
@@ -13041,6 +13237,41 @@
                 "title": "VideoLingo 是一站式视频翻译本地化配音工具，能够一键生成 Netflix 级别的高质量字幕，告别生硬机翻，告别多行字幕，还能加上高质量的克隆配音，让全世界的知识能够跨越语言的障碍共享。 Huanshere/VideoLingo: Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组",
                 "icon": "https://logo.clearbit.com/github.com",
                 "url": "https://github.com/Huanshere/VideoLingo"
+              },
+              {
+                "type": "link",
+                "addDate": 1742720962231,
+                "title": "动画库  Motion Examples - Official Motion and Framer Motion components & examples",
+                "icon": "https://logo.clearbit.com/examples.motion.dev",
+                "url": "https://examples.motion.dev/"
+              },
+              {
+                "type": "link",
+                "addDate": 1743489768302,
+                "title": "React Bits - Circular Text  开源的动画、交互式和完全可定制的 React 组件集合，用于构建令人惊叹、难忘的用户界面",
+                "icon": "https://logo.clearbit.com/www.reactbits.dev",
+                "url": "https://www.reactbits.dev/text-animations/circular-text"
+              },
+              {
+                "type": "link",
+                "addDate": 1743598828278,
+                "title": "欢迎来到 Inspira UI，一个由 Vue 驱动的社区项目！ 简介 - Inspira UI --- Introduction - Inspira UI",
+                "icon": "https://logo.clearbit.com/inspira-ui.com",
+                "url": "https://inspira-ui.com/getting-started/introduction"
+              },
+              {
+                "type": "link",
+                "addDate": 1743687928972,
+                "title": "Dribbble - 发现全球顶尖设计师与创意专业人士 --- Dribbble - Discover the World’s Top Designers & Creative Professionals",
+                "icon": "https://logo.clearbit.com/dribbble.com",
+                "url": "https://dribbble.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1744165057117,
+                "title": "FullCalendar  全日历",
+                "icon": "https://logo.clearbit.com/fullcalendar.io",
+                "url": "https://fullcalendar.io/demos"
               }
             ]
           },
@@ -14119,13 +14350,6 @@
                 "title": "HTTPie 2.1.0（最新）文档",
                 "icon": "https://logo.clearbit.com/httpie.org",
                 "url": "https://httpie.org/docs#http-method"
-              },
-              {
-                "type": "link",
-                "addDate": 1588818197162,
-                "title": "The online code editor for web apps. Powered by Visual Studio Code. - StackBlitz",
-                "icon": "https://logo.clearbit.com/stackblitz.com",
-                "url": "https://stackblitz.com/"
               },
               {
                 "type": "link",
@@ -16531,6 +16755,13 @@
           },
           {
             "type": "link",
+            "addDate": 1744366590127,
+            "title": "MacKed - 专注于Mac破解资源的分享与下载",
+            "icon": "https://logo.clearbit.com/macked.app",
+            "url": "https://macked.app/"
+          },
+          {
+            "type": "link",
             "addDate": 1578455062585,
             "title": "精品MAC应用分享",
             "icon": "https://logo.clearbit.com/xclient.info",
@@ -16542,6 +16773,13 @@
             "title": "Swish – Mac玩儿法",
             "icon": "https://logo.clearbit.com/www.waerfa.com",
             "url": "https://www.waerfa.com/swish"
+          },
+          {
+            "type": "link",
+            "addDate": 1744366297460,
+            "title": "MacOS软件小站",
+            "icon": "https://logo.clearbit.com/filesoft.top",
+            "url": "http://filesoft.top/"
           },
           {
             "type": "link",
@@ -16777,13 +17015,6 @@
           {
             "type": "link",
             "addDate": 1706691441609,
-            "title": "Moom · Many Tricks",
-            "icon": "https://logo.clearbit.com/manytricks.com",
-            "url": "https://manytricks.com/moom/"
-          },
-          {
-            "type": "link",
-            "addDate": 1706691571608,
             "title": "Moom · Many Tricks",
             "icon": "https://logo.clearbit.com/manytricks.com",
             "url": "https://manytricks.com/moom/"
@@ -21048,7 +21279,7 @@
       {
         "type": "link",
         "addDate": 1730172177076,
-        "title": "我的浏览器书签",
+        "title": "我的浏览器书签pointree",
         "icon": "https://logo.clearbit.com/whoelse666.github.io",
         "url": "https://whoelse666.github.io/pintree/"
       },
@@ -21149,6 +21380,48 @@
         "title": "马努斯",
         "icon": "https://logo.clearbit.com/manus.im",
         "url": "https://manus.im/invitation/waitlist"
+      },
+      {
+        "type": "link",
+        "addDate": 1742438191940,
+        "title": "Product Hunt – The best new products in tech.",
+        "icon": "https://logo.clearbit.com/www.producthunt.com",
+        "url": "https://www.producthunt.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1742450176140,
+        "title": "臭蛋蛋影视|专注优质影视站点收集",
+        "icon": "https://logo.clearbit.com/cddys.com",
+        "url": "https://cddys.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1742522163868,
+        "title": "Claude（私信） - claud - Slack",
+        "icon": "https://logo.clearbit.com/app.slack.com",
+        "url": "https://app.slack.com/client/T08K0EWRQ5P/D08JS5MHLTC"
+      },
+      {
+        "type": "link",
+        "addDate": 1742536750599,
+        "title": "Cursor Directory - Cursor Rules & MCP Servers",
+        "icon": "https://logo.clearbit.com/cursor.directory",
+        "url": "https://cursor.directory/"
+      },
+      {
+        "type": "link",
+        "addDate": 1743082520747,
+        "title": "奈飞中文 - 影视剧集弹幕网",
+        "icon": "https://logo.clearbit.com/www.naifei2.org",
+        "url": "https://www.naifei2.org/"
+      },
+      {
+        "type": "link",
+        "addDate": 1743581294179,
+        "title": "Coco AI - 搜索、连接、协作 --- Coco AI - Search, Connect, Collaborate",
+        "icon": "https://logo.clearbit.com/coco.rs",
+        "url": "https://coco.rs/#install"
       }
     ]
   }

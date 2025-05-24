@@ -1,7 +1,7 @@
 [
   {
     "type": "folder",
-    "addDate": 1743774996120,
+    "addDate": 1694786009819,
     "title": "书签栏",
     "children": [
       {
@@ -1203,6 +1203,13 @@
                 "title": "Smithery - Model Context Protocol Registry",
                 "icon": "https://logo.clearbit.com/smithery.ai",
                 "url": "https://smithery.ai/"
+              },
+              {
+                "type": "link",
+                "addDate": 1745377542501,
+                "title": "MCP Server（MCP 服务器）",
+                "icon": "https://logo.clearbit.com/mcp.so",
+                "url": "https://mcp.so/zh"
               }
             ]
           },
@@ -1695,6 +1702,181 @@
             "title": "ScriptEcho | AI生成生产级代码 |",
             "icon": "https://logo.clearbit.com/scriptecho.cn",
             "url": "https://scriptecho.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1745215192596,
+            "title": "介绍https://www.perplexity.ai",
+            "icon": "https://logo.clearbit.com/www.perplexity.ai",
+            "url": "https://www.perplexity.ai/search/jie-shao-https-www-perplexity-TAwoVCVlQpOyGp500Rfg_w"
+          },
+          {
+            "type": "link",
+            "addDate": 1745234765302,
+            "title": "WaytoAGI-通往AGI之路，最好的 AI 知识库和工具站",
+            "icon": "https://logo.clearbit.com/www.waytoagi.com",
+            "url": "https://www.waytoagi.com/zh"
+          },
+          {
+            "type": "link",
+            "addDate": 1745234771100,
+            "title": "‍⁢‬﻿​⁡﻿‌⁡⁡​⁤‌‍⁡⁣​⁣⁡​⁤⁤⁣‌﻿‬﻿​‌‍⁢​⁢⁤⁣‍⁢‬‌⁡​‌​⁢⁤⁤⁤‌‍​AI编程蓝皮书2.0（更新Claude 3.7+MCP） - 飞书云文档",
+            "icon": "https://logo.clearbit.com/superhuang.feishu.cn",
+            "url": "https://superhuang.feishu.cn/wiki/CBBPwvgEuicVhFkx0s7cPmhpn4e"
+          },
+          {
+            "type": "link",
+            "addDate": 1745305723328,
+            "title": "B 站视频转笔记 BiliNote - 强大的AI视频笔记神器",
+            "icon": "https://logo.clearbit.com/www.bilinote.app",
+            "url": "https://www.bilinote.app/"
+          },
+          {
+            "type": "link",
+            "addDate": 1745377536500,
+            "title": "MCP Server（MCP 服务器）",
+            "icon": "https://logo.clearbit.com/mcp.so",
+            "url": "https://mcp.so/zh/chat"
+          },
+          {
+            "type": "link",
+            "addDate": 1745377591574,
+            "title": "DeepSite – Huggingface开发的最新AI代码Agent",
+            "icon": "https://logo.clearbit.com/deepsite.site",
+            "url": "https://deepsite.site/zh"
+          },
+          {
+            "type": "link",
+            "addDate": 1745485689318,
+            "title": "PDF 翻译",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/Byaidu/PDFMathTranslate"
+          },
+          {
+            "type": "link",
+            "addDate": 1745590835079,
+            "title": "Genspark - 重新构想搜索。欢迎使用Agentic引擎。",
+            "icon": "https://logo.clearbit.com/www.genspark.ai",
+            "url": "https://www.genspark.ai/"
+          },
+          {
+            "type": "link",
+            "addDate": 1745559798993,
+            "title": "Agent TARS - 字节跳动开源的多模态 AI Agent 项目 | AI工具集",
+            "icon": "https://logo.clearbit.com/ai-bot.cn",
+            "url": "https://ai-bot.cn/agent-tars/"
+          },
+          {
+            "type": "link",
+            "addDate": 1745559927937,
+            "title": "Agent TARS - Open-source Multimodal AI Agent",
+            "icon": "https://logo.clearbit.com/agent-tars.com",
+            "url": "https://agent-tars.com/doc/quick-start"
+          },
+          {
+            "type": "link",
+            "addDate": 1745657304940,
+            "title": "DeepWiki",
+            "icon": "https://logo.clearbit.com/deepwiki.com",
+            "url": "https://deepwiki.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1745734124573,
+            "title": "Vidu AI - 极速生成高质量创意视频，用AI轻松表达想法",
+            "icon": "https://logo.clearbit.com/www.vidu.cn",
+            "url": "https://www.vidu.cn/create"
+          },
+          {
+            "type": "link",
+            "addDate": 1745734985353,
+            "title": "DeepWiki -github仓库快速学习",
+            "icon": "https://logo.clearbit.com/deepwiki.com",
+            "url": "https://deepwiki.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1745806868761,
+            "title": "Vidu AI - 全球领先的AI内容生产平台",
+            "icon": "https://logo.clearbit.com/www.vidu.cn",
+            "url": "https://www.vidu.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1745895457444,
+            "title": "文档工具 Smallpdf.com - A Free Solution to all your PDF Problems",
+            "icon": "https://logo.clearbit.com/smallpdf.com",
+            "url": "https://smallpdf.com/#r=app"
+          },
+          {
+            "type": "link",
+            "addDate": 1745896946613,
+            "title": "PandaBI 数据库对话",
+            "icon": "https://logo.clearbit.com/app.pandabi.ai",
+            "url": "https://app.pandabi.ai/admin/connectors"
+          },
+          {
+            "type": "link",
+            "addDate": 1745912155542,
+            "title": "GitDiagram 免费、简单、快速互动的 GitHub 仓库图表",
+            "icon": "https://logo.clearbit.com/gitdiagram.com",
+            "url": "https://gitdiagram.com/haizlin/fe-interview"
+          },
+          {
+            "type": "link",
+            "addDate": 1747202458134,
+            "title": "CodeFlying-码上飞，AI 人工智能自动软件、小程序、APP应用开发平台",
+            "icon": "https://logo.clearbit.com/www.codeflying.net",
+            "url": "https://www.codeflying.net/?source=baidu&source_id=1005238211219#/appliCation?appid=96225"
+          },
+          {
+            "type": "link",
+            "addDate": 1747202475973,
+            "title": "Tencent Cloud CodeBuddy",
+            "icon": "https://logo.clearbit.com/copilot.tencent.com",
+            "url": "https://copilot.tencent.com/chat?explain_id=a1dfc93c-1abd-412f-bf70-8a5e3edf74d5"
+          },
+          {
+            "type": "link",
+            "addDate": 1747121061084,
+            "title": "制作证件照",
+            "icon": "https://logo.clearbit.com/huggingface.co",
+            "url": "https://huggingface.co/spaces/TheEeeeLin/HivisionIDPhotos"
+          },
+          {
+            "type": "link",
+            "addDate": 1747325312672,
+            "title": "新乌托邦_日韩剧_第1集_共8集_金牌影院_免费在线播放_高清全集_电影网站_在线视频",
+            "icon": "https://logo.clearbit.com/m.vv3nwjk.com",
+            "url": "https://m.vv3nwjk.com/vod/play/134025/1/1159765"
+          },
+          {
+            "type": "link",
+            "addDate": 1747473928673,
+            "title": "Get API key | Google AI Studio 谷歌apikey",
+            "icon": "https://logo.clearbit.com/aistudio.google.com",
+            "url": "https://aistudio.google.com/apikey"
+          },
+          {
+            "type": "link",
+            "addDate": 1747463820222,
+            "title": "iCloud 关于购买后设置和售后问题",
+            "icon": "https://logo.clearbit.com/n6vshdh7x3.feishu.cn",
+            "url": "https://n6vshdh7x3.feishu.cn/wiki/IeNgwTrv9iGonMkVSx5c9t37nOh?from=from_copylink"
+          },
+          {
+            "type": "link",
+            "addDate": 1747662859794,
+            "title": "Raphael AI - 免费无限制 AI 图像生成器",
+            "icon": "https://logo.clearbit.com/raphael.app",
+            "url": "https://raphael.app/zh"
+          },
+          {
+            "type": "link",
+            "addDate": 1747922395001,
+            "title": "manus 邀请码 激活 https://manus.im/invitation",
+            "icon": "https://logo.clearbit.com/manus.im",
+            "url": "https://manus.im/invitation"
           }
         ]
       },
@@ -2993,6 +3175,13 @@
         "children": [
           {
             "type": "link",
+            "addDate": 1747205149678,
+            "title": "Jenkins",
+            "icon": "https://logo.clearbit.com/101.36.138.133",
+            "url": "http://101.36.138.133:58080/jenkins/job/%E7%99%BB%E8%AE%B0%E5%B9%B3%E5%8F%B0/build?delay=0sec"
+          },
+          {
+            "type": "link",
             "addDate": 1740116132327,
             "title": "32010  开发  要素开发域",
             "icon": "https://logo.clearbit.com/101.36.138.132",
@@ -3018,6 +3207,13 @@
             "title": "UI-福建公共数据登记平台-Pixso",
             "icon": "https://logo.clearbit.com/pixso.cn",
             "url": "https://pixso.cn/app/editor/xDGtTcMxS8EOmQRBLkWubQ?icon_type=1&page-id=355%3A2255"
+          },
+          {
+            "type": "link",
+            "addDate": 1746789748633,
+            "title": "Jenkins",
+            "icon": "https://logo.clearbit.com/101.36.138.133",
+            "url": "http://101.36.138.133:58080/jenkins/job/%E7%99%BB%E8%AE%B0%E5%B9%B3%E5%8F%B0/build?delay=0sec"
           },
           {
             "type": "link",
@@ -3126,13 +3322,6 @@
           },
           {
             "type": "link",
-            "addDate": 1742191010204,
-            "title": "工作台 [Jenkins]",
-            "icon": "https://logo.clearbit.com/101.36.138.133",
-            "url": "http://101.36.138.133:58080/jenkins/"
-          },
-          {
-            "type": "link",
             "addDate": 1742214270559,
             "title": "福建公共数据登记平台-Pixso",
             "icon": "https://logo.clearbit.com/pixso.cn",
@@ -3151,6 +3340,27 @@
             "title": "32011 福建省公共数据资源登记平台",
             "icon": "https://logo.clearbit.com/101.36.138.132",
             "url": "http://101.36.138.132:32011/dengjipoc/assetbusinessweb/#/enterprise/myAssetsList/index"
+          },
+          {
+            "type": "link",
+            "addDate": 1745308954251,
+            "title": "Sonatype Nexus Repository",
+            "icon": "https://logo.clearbit.com/101.36.138.132",
+            "url": "http://101.36.138.132:32081/#browse/browse:localnpm"
+          },
+          {
+            "type": "link",
+            "addDate": 1747101707972,
+            "title": "福建公共数据登记平台-Pixso",
+            "icon": "https://logo.clearbit.com/pixso.cn",
+            "url": "https://pixso.cn/app/editor/xDGtTcMxS8EOmQRBLkWubQ?page-id=1260%3A8040&item-id=1373%3A6249&editMode=coder"
+          },
+          {
+            "type": "link",
+            "addDate": 1747275313203,
+            "title": "youedata - 坚果云",
+            "icon": "https://logo.clearbit.com/www.jianguoyun.com",
+            "url": "https://www.jianguoyun.com/#/sandbox/1adad2f/11ae5384538674d/%2F/"
           }
         ]
       },
@@ -4263,6 +4473,13 @@
             "title": "短信 SMS-Activate是在线接受短信的虚拟号码服务",
             "icon": "https://logo.clearbit.com/sms-activate.guru",
             "url": "https://sms-activate.guru/cn"
+          },
+          {
+            "type": "link",
+            "addDate": 1747489864873,
+            "title": "Scribe | Workspace  屏幕录制",
+            "icon": "https://logo.clearbit.com/scribehow.com",
+            "url": "https://scribehow.com/workspace#dashboard"
           }
         ]
       },
@@ -4434,6 +4651,34 @@
                     "title": "录制文件 NFT marketplace项目 合约模块实战分享.mp4",
                     "icon": "https://logo.clearbit.com/meeting.tencent.com",
                     "url": "https://meeting.tencent.com/cw/ldRRw0pqcb"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1747923059714,
+                    "title": "ProjectsTask/nft-market-fe",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/ProjectsTask/nft-market-fe"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1747923089498,
+                    "title": "录制文件",
+                    "icon": "https://logo.clearbit.com/meeting.tencent.com",
+                    "url": "https://meeting.tencent.com/cw/2rxOgnmJd9"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1747923095500,
+                    "title": "‌⁣⁤​⁡⁣﻿​⁢﻿‍⁤​⁡⁡‬‌⁣​​‍⁡⁢​‌⁢​⁤⁢‌﻿​⁤﻿‌​‌​‬‍‌​‬﻿⁢﻿‬⁢​‌EasySwap项目面试难点 - 飞书云文档",
+                    "icon": "https://logo.clearbit.com/ncnlo95gua0y.feishu.cn",
+                    "url": "https://ncnlo95gua0y.feishu.cn/wiki/MbtOw9RJrim9PKkrOk3coNLjnfc"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1747923381961,
+                    "title": "‌​​‍⁤⁣⁤⁢⁡﻿⁡⁣⁡⁤‬‍﻿⁡⁢⁤​​‌‬⁤⁡‍⁣‌‍​‬‌‌​​⁡‌⁣⁤​‬​⁡⁤⁢⁡​​​EasySwap项目面试难点 副本 - 飞书云文档",
+                    "icon": "https://logo.clearbit.com/raus7mr5uuc.feishu.cn",
+                    "url": "https://raus7mr5uuc.feishu.cn/docx/EpWRdA6OToC4FLxi2pvc7qc2n7c"
                   }
                 ]
               },
@@ -11394,6 +11639,13 @@
                     "title": "快速拖放 atlassian/pragmatic-drag-and-drop：快速拖放，适用于任何技术堆栈上的任何体验 --- atlassian/pragmatic-drag-and-drop: Fast drag and drop for any experience on any tech stack",
                     "icon": "https://logo.clearbit.com/github.com",
                     "url": "https://github.com/atlassian/pragmatic-drag-and-drop"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1745734871768,
+                    "title": "简介 | Wasp --- 蜜蜂是一个用于构建现代Web应用的工具",
+                    "icon": "https://logo.clearbit.com/wasp.sh",
+                    "url": "https://wasp.sh/docs"
                   }
                 ]
               },
@@ -13762,6 +14014,34 @@
                 "title": "精选特惠 用云无忧_腾讯云优惠活动",
                 "icon": "https://logo.clearbit.com/cloud.tencent.com",
                 "url": "https://cloud.tencent.com/act/pro/Featured?from=22374&from_column=22374#newuser"
+              },
+              {
+                "type": "folder",
+                "addDate": 1745590593028,
+                "title": "数据库",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1745590540702,
+                    "title": "霓虹控制台 --- Neon Console   数据库",
+                    "icon": "https://logo.clearbit.com/console.neon.tech",
+                    "url": "https://console.neon.tech/app/projects/long-bird-26060301?database=neondb"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1745590715408,
+                    "title": "数据库 supabase/supabase：开源 Firebase 替代品。Supabase 为您提供专用的 PostgreSQL 数据库，用于构建您的 Web、移动和 AI 应用程序。 --- supabase/supabase: The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/supabase/supabase"
+                  }
+                ]
+              },
+              {
+                "type": "link",
+                "addDate": 1745640973358,
+                "title": "Caddy - 自动 HTTPS 的终极服务器 --- Caddy - The Ultimate Server with Automatic HTTPS",
+                "icon": "https://logo.clearbit.com/caddyserver.com",
+                "url": "https://caddyserver.com/"
               }
             ]
           },
@@ -17270,6 +17550,27 @@
             "title": "屏幕亮度控制  · waydabber/BetterDisplay ",
             "icon": "https://logo.clearbit.com/github.com",
             "url": "https://github.com/waydabber/BetterDisplay/releases"
+          },
+          {
+            "type": "link",
+            "addDate": 1747479191469,
+            "title": "Open Source Mac Apps - Indie Goodies",
+            "icon": "https://logo.clearbit.com/indiegoodies.com",
+            "url": "https://indiegoodies.com/awesome-open-source-mac-apps"
+          },
+          {
+            "type": "link",
+            "addDate": 1747554615957,
+            "title": "YouTube中文配音 - Chrome 应用商店",
+            "icon": "https://logo.clearbit.com/chromewebstore.google.com",
+            "url": "https://chromewebstore.google.com/detail/youtube%E4%B8%AD%E6%96%87%E9%85%8D%E9%9F%B3/oglffgiaiekgeicdgkdlnlkhliajdlja"
+          },
+          {
+            "type": "link",
+            "addDate": 1747663384183,
+            "title": "屏幕录制 截图 Scribe: AI Documentation, SOPs & Screenshots - Chrome 应用商店",
+            "icon": "https://logo.clearbit.com/chromewebstore.google.com",
+            "url": "https://chromewebstore.google.com/detail/scribe-ai-documentation-s/okfkdaglfjjjfefdcppliegebpoegaii"
           }
         ]
       },
@@ -17459,6 +17760,27 @@
             "title": "在线工具箱 - 要你命3000 - 云科信息工具集",
             "icon": "https://logo.clearbit.com/tools.gzyunke.cn",
             "url": "https://tools.gzyunke.cn/index.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1745638706411,
+            "title": "万能视频图片解析下载 - SnapAny",
+            "icon": "https://logo.clearbit.com/snapany.com",
+            "url": "https://snapany.com/zh"
+          },
+          {
+            "type": "link",
+            "addDate": 1745639915797,
+            "title": "Temp Mail - 临时性 - 匿名电子邮件",
+            "icon": "https://logo.clearbit.com/temp-mail.org",
+            "url": "https://temp-mail.org/zh/view/680c59b4580f3a0032dbba5c"
+          },
+          {
+            "type": "link",
+            "addDate": 1747028339236,
+            "title": "css 渐变GradientGenerator  ",
+            "icon": "https://logo.clearbit.com/ggradient.com",
+            "url": "https://ggradient.com/"
           }
         ]
       },
@@ -21422,7 +21744,34 @@
         "title": "Coco AI - 搜索、连接、协作 --- Coco AI - Search, Connect, Collaborate",
         "icon": "https://logo.clearbit.com/coco.rs",
         "url": "https://coco.rs/#install"
+      },
+      {
+        "type": "link",
+        "addDate": 1745238648293,
+        "title": "Home | myLU  大学 邮箱",
+        "icon": "https://logo.clearbit.com/mylu.liberty.edu",
+        "url": "https://mylu.liberty.edu/"
+      },
+      {
+        "type": "link",
+        "addDate": 1746521316435,
+        "title": "我的坚果云 - 坚果云 同步",
+        "icon": "https://logo.clearbit.com/www.jianguoyun.com",
+        "url": "https://www.jianguoyun.com/#/sandbox/1ad7000/2f487961d9d9770f/%2F/"
+      },
+      {
+        "type": "link",
+        "addDate": 1747029600404,
+        "title": "Seelen UI - Seelen 全新的桌面体验",
+        "icon": "https://logo.clearbit.com/seelen.io",
+        "url": "https://seelen.io/zh/apps/seelen-ui"
       }
     ]
+  },
+  {
+    "type": "folder",
+    "addDate": 1694786009819,
+    "title": "其他书签",
+    "children": []
   }
 ]

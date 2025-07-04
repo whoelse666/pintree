@@ -13471,13 +13471,6 @@
               },
               {
                 "type": "link",
-                "addDate": 1678853761033,
-                "title": "Rax - 快速构建多端应用",
-                "icon": "https://logo.clearbit.com/rax.js.org",
-                "url": "https://rax.js.org/docs/guide/about"
-              },
-              {
-                "type": "link",
                 "addDate": 1724555756411,
                 "title": "渡一 - WEB前端大师课",
                 "icon": "https://logo.clearbit.com/fe.duyiedu.com",
@@ -19305,13 +19298,6 @@
       },
       {
         "type": "link",
-        "addDate": 1579489799461,
-        "title": "Rax - 快速构建多端应用",
-        "icon": "https://logo.clearbit.com/rax.js.org",
-        "url": "https://rax.js.org/ssr"
-      },
-      {
-        "type": "link",
         "addDate": 1580719372680,
         "title": "ev录屏Mac中文免费版-ev录屏 for Mac(屏幕录像软件) v1.1.0最新版 - 未来Mac下载",
         "icon": "https://logo.clearbit.com/mac.orsoon.com",
@@ -19323,13 +19309,6 @@
         "title": "Kap - Capture your screen",
         "icon": "https://logo.clearbit.com/getkap.co",
         "url": "https://getkap.co/"
-      },
-      {
-        "type": "link",
-        "addDate": 1582019466383,
-        "title": "注册产品",
-        "icon": "https://logo.clearbit.com/lyveint.seagate.com",
-        "url": "https://lyveint.seagate.com/?sn=NAAJ2F4D&format=EXFAT&product=STCM500401&color=SL&lang=zh-Hans-CN&id=6a1b414a3e7234f5d0b043ea"
       },
       {
         "type": "link",
@@ -19683,13 +19662,6 @@
       },
       {
         "type": "link",
-        "addDate": 1636778090091,
-        "title": "百度翻译-200种语言互译、沟通全世界！",
-        "icon": "https://logo.clearbit.com/fanyi.baidu.com",
-        "url": "https://fanyi.baidu.com/?aldtype=16047#en/zh/%CE%BB%20git%20clone%20https%3A%2F%2Fgithub.com%2Fsu37josephxia%2Fvue3-study.git%0ACloning%20into%20'vue3-study'...%0Awarning%3A%20templates%20not%20found%20in%20D%3A%2Fapp%2FGit%2Fmingw64%2Fshare%2Fgit-core%2Ftemplates%0Afatal%3A%20unable%20to%20access%20'https%3A%2F%2Fgithub.com%2Fsu37josephxia%2Fvue3-study.git%2F'%3A%20error%20setting%20certificate%20verify%20locations%3A%20%20CAfile%3A%20D%3A%2Fapp%2FGit%2Fmingw64%2Fssl%2Fcerts%2Fca-bundle.crt%20CApath%3A%20none"
-      },
-      {
-        "type": "link",
         "addDate": 1571483868172,
         "title": "微软 Bing 搜索 - 国内版",
         "icon": "https://logo.clearbit.com/cn.bing.com",
@@ -19945,97 +19917,6 @@
         "addDate": 1676773057456,
         "title": "思否网",
         "children": []
-      },
-      {
-        "type": "folder",
-        "addDate": 1677575675349,
-        "title": "收藏的职位",
-        "children": [
-          {
-            "type": "link",
-            "addDate": 1677575685532,
-            "title": "「前端开发招聘」_兴业数金招聘-BOSS直聘",
-            "icon": "https://logo.clearbit.com/www.zhipin.com",
-            "url": "https://www.zhipin.com/job_detail/b64f7114a075d7a61XZ43ti4GFVW.html?lid=3sXYpQqN9LG.search.55&securityId=njZxtNDozb5Ps-_1L0EwtaKOX6XWLH4-5oFLhE160oI8N9G9qIv-SKlR1HniZvQIZdC1z8IA4HhgYVR8WGR9FYJWEb_z-ZYOHNSDNrRO803qKcWCn_VtUA53Jrzu2YYJ7Zt52dM~&sessionId="
-          },
-          {
-            "type": "link",
-            "addDate": 1677575690853,
-            "title": "「前端开发工程师招聘」_北京字节跳动招聘-BOSS直聘",
-            "icon": "https://logo.clearbit.com/www.zhipin.com",
-            "url": "https://www.zhipin.com/job_detail/8a5cf09f6d9f1a981XJy29S1FVVR.html?lid=3sXYpQqN9LG.search.39&securityId=csIXGrDL6eTXi-A11EiFY9QJGX6q03uAMaSPbC37XrAIKz65mw85qhhSuPOr2mRymTa6_O24qk0NIzh05VruaBsC0EraRDTClWl0k0Lh0FuhdN3-U3NTrflVvClOqHtR_Z8hN4Mo&sessionId="
-          },
-          {
-            "type": "link",
-            "addDate": 1677575694025,
-            "title": "「前端开发工程师招聘」_天翼云招聘-BOSS直聘",
-            "icon": "https://logo.clearbit.com/www.zhipin.com",
-            "url": "https://www.zhipin.com/job_detail/f9ebf5353b2712a31XV92Nm1GVpZ.html?lid=3sXYpQqN9LG.search.21&securityId=sk4msX-UmhrNW-k1LxJ6j1VHZuEgC5nZk29oi4gE_y99JuRQfebQutRn0SlQ0fKfmltUZODo7QxWqn41fBMErAj1pRedgTYuVBMniA06h9tsCHtCaIL8CxED0FaIrFVl6u_y8mNOF28~&sessionId="
-          },
-          {
-            "type": "link",
-            "addDate": 1677575697220,
-            "title": "「Web前端开发工程师（证券)招聘」_东方财富集团招聘-BOSS直聘",
-            "icon": "https://logo.clearbit.com/www.zhipin.com",
-            "url": "https://www.zhipin.com/job_detail/25f286f1fe545fdc1nN539-9GFZT.html?lid=3sXYpQqN9LG.search.11&securityId=mAtQpeuIfTCBk-b1n85w2d6orE4wT5NRr9QWVz5b4VjMyphL05-xm0mWTdVyNMnx0vC-71B304WPN3WGDXgh21sEgRKgvdeBQ7qRLSUNv4yjtPTO0n8CW3xAeWOwUXmdz_NL8U9cWMHjLMr3u1cXGLLlHKUeCoIyB4yeOwJJjXDu&sessionId="
-          },
-          {
-            "type": "link",
-            "addDate": 1677582330238,
-            "title": "网站正在建设中",
-            "icon": "https://logo.clearbit.com/ocher-mango-19dhjx.mysxl.cn",
-            "url": "https://ocher-mango-19dhjx.mysxl.cn/i/construction"
-          },
-          {
-            "type": "link",
-            "addDate": 1677582435299,
-            "title": "上线了网站套餐_建站套餐价格_微信小程序套餐|上线了sxl.cn",
-            "icon": "https://logo.clearbit.com/www.sxl.cn",
-            "url": "https://www.sxl.cn/s/pricing?ref=dashboard"
-          },
-          {
-            "type": "link",
-            "addDate": 1677659348580,
-            "title": "「前端开发工程师招聘」_蚂蚁智服(成都)信息招聘-BOSS直聘",
-            "icon": "https://logo.clearbit.com/www.zhipin.com",
-            "url": "https://www.zhipin.com/job_detail/684498411ed0896f1nV_2tm5EFFW.html?lid=409FsmyAAO5.search.126&securityId=itrUhZgJw2pg8-n13SQNX0B-zOJNsD7v2Lf5Y2q9w2W8FW7q7rrlHkWx5qJ9ctgtXX6D8gwYMHlRyUuEEVzLSb5UWQWmIMb513kxJmGxA-xo0lbpZICdrYVWFL4OQTBMfUYEDZKn5Sw~&sessionId="
-          },
-          {
-            "type": "link",
-            "addDate": 1677680731282,
-            "title": "「成都前端开发工程师前端开发工程师招聘」20-50K-2023年成都前端开发工程师前端开发工程师人才招聘信息 - BOSS直聘",
-            "icon": "https://logo.clearbit.com/www.zhipin.com",
-            "url": "https://www.zhipin.com/web/geek/job?query=%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88&city=101270100&position=100901&jobType=1901&salary=406&page=7"
-          },
-          {
-            "type": "link",
-            "addDate": 1678010819568,
-            "title": "资深前端研发工程师|专家",
-            "icon": "https://logo.clearbit.com/www.yuque.com",
-            "url": "https://www.yuque.com/afx/about/ht6e8u"
-          },
-          {
-            "type": "link",
-            "addDate": 1678160295624,
-            "title": "服务平台 | 麦客人才中心",
-            "icon": "https://logo.clearbit.com/talents.mikecrm.com",
-            "url": "https://talents.mikecrm.com/mbrm/TbIQU8lB#/"
-          },
-          {
-            "type": "link",
-            "addDate": 1678678518507,
-            "title": "我的提交记录 | 麦客人才中心",
-            "icon": "https://logo.clearbit.com/talents.mikecrm.com",
-            "url": "https://talents.mikecrm.com/mbrm/TbIQU8lB#/form"
-          },
-          {
-            "type": "link",
-            "addDate": 1679291855027,
-            "title": "职位收藏夹--My51job--个人服务",
-            "icon": "https://logo.clearbit.com/i.51job.com",
-            "url": "https://i.51job.com/userset/my_collection.php?lang=c"
-          }
-        ]
       },
       {
         "type": "link",
@@ -20370,20 +20251,6 @@
                 "url": "https://www.itneituiquan.com/"
               }
             ]
-          }
-        ]
-      },
-      {
-        "type": "folder",
-        "addDate": 1680758126656,
-        "title": "邮箱",
-        "children": [
-          {
-            "type": "link",
-            "addDate": 1680758115700,
-            "title": "(5) 收件箱 | rcpyy@proton.me | Proton Mail",
-            "icon": "https://logo.clearbit.com/mail.proton.me",
-            "url": "https://mail.proton.me/u/0/inbox#filter=read"
           }
         ]
       },
@@ -20813,13 +20680,6 @@
         "title": "木易杨前端进阶",
         "icon": "https://logo.clearbit.com/muyiy.cn",
         "url": "https://muyiy.cn/"
-      },
-      {
-        "type": "link",
-        "addDate": 1686824125323,
-        "title": "readme.so",
-        "icon": "https://logo.clearbit.com/readme.so",
-        "url": "https://readme.so/"
       },
       {
         "type": "link",
@@ -21550,20 +21410,6 @@
         "url": "http://bd.sludua.com/wsobd"
       },
       {
-        "type": "folder",
-        "addDate": 1706796978737,
-        "title": "百度翻译",
-        "children": [
-          {
-            "type": "link",
-            "addDate": 1706796948376,
-            "title": "百度翻译开放平台",
-            "icon": "https://logo.clearbit.com/api.fanyi.baidu.com",
-            "url": "https://api.fanyi.baidu.com/api/trans/product/desktop"
-          }
-        ]
-      },
-      {
         "type": "link",
         "addDate": 1707483547457,
         "title": "程序员第二曲线手册 | 程序员第二曲线手册",
@@ -21637,13 +21483,6 @@
             "title": "亚马逊AWS海外区域账户免费套餐_免费云服务-AWS云服务",
             "icon": "https://logo.clearbit.com/aws.amazon.com",
             "url": "https://aws.amazon.com/cn/free/?sc_icampaign=acq_aws_takeover-abandoner&sc_ichannel=ha&sc_icontent=awssm-1524&sc_iplace=ed&trk=ha_awssm-1524&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all"
-          },
-          {
-            "type": "link",
-            "addDate": 1710662447149,
-            "title": "Welcome to Nuxt!",
-            "icon": "https://logo.clearbit.com/dev-01.dhuh5sjr2f77b.amplifyapp.com",
-            "url": "https://dev-01.dhuh5sjr2f77b.amplifyapp.com/"
           }
         ]
       },

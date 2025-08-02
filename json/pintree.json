@@ -3193,15 +3193,15 @@
             "title": "雅思口语专家 coze ",
             "icon": "https://logo.clearbit.com/www.coze.cn",
             "url": "https://www.coze.cn/template/agent/7389299390185209892?"
+          },
+          {
+            "type": "link",
+            "addDate": 1751864381488,
+            "title": "不背句子",
+            "icon": "https://logo.clearbit.com/www.bubeijuzi.com",
+            "url": "https://www.bubeijuzi.com/game/gjogsylap8lcbxvi/aeicjhg1hx9esie1"
           }
         ]
-      },
-      {
-        "type": "link",
-        "addDate": 1737900689960,
-        "title": "应用场景有哪些 | js大厂面试每日一题",
-        "icon": "https://logo.clearbit.com/q.shanyue.tech",
-        "url": "https://q.shanyue.tech/fe/js/3"
       },
       {
         "type": "link",
@@ -3209,6 +3209,13 @@
         "title": "火山翻译 - 在线翻译",
         "icon": "https://logo.clearbit.com/translate.volcengine.com",
         "url": "https://translate.volcengine.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1737900689960,
+        "title": "应用场景有哪些 | js大厂面试每日一题",
+        "icon": "https://logo.clearbit.com/q.shanyue.tech",
+        "url": "https://q.shanyue.tech/fe/js/3"
       },
       {
         "type": "folder",
@@ -3412,377 +3419,6 @@
         "title": "DeepL翻译：全世界最准确的翻译",
         "icon": "https://logo.clearbit.com/www.deepl.com",
         "url": "https://www.deepl.com/zh/translator"
-      },
-      {
-        "type": "folder",
-        "addDate": 1728723663637,
-        "title": "华润",
-        "children": [
-          {
-            "type": "folder",
-            "addDate": 1733794827900,
-            "title": "雪花",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1733794807422,
-                "title": "经销商档案管理 MasterGo 原型",
-                "icon": "https://logo.clearbit.com/mastergo.com",
-                "url": "https://mastergo.com/file/142622391761032?fileOpenFrom=drafts&fileTileSwitch=false&page_id=30%3A0764&shareId=3a9141e1-cd45-44a7-acd0-791b640482e6&devMode=true"
-              },
-              {
-                "type": "link",
-                "addDate": 1733794843785,
-                "title": "Apifox",
-                "icon": "https://logo.clearbit.com/app.apifox.com",
-                "url": "https://app.apifox.com/project/5520047"
-              },
-              {
-                "type": "link",
-                "addDate": 1731983263020,
-                "title": "我参与的 - 项目 - Wine",
-                "icon": "https://logo.clearbit.com/g-voxr0321.coding.net",
-                "url": "https://g-voxr0321.coding.net/user/projects"
-              },
-              {
-                "type": "link",
-                "addDate": 1733837664577,
-                "title": "代码浏览 - wsmp-workflow - 工作流 - Wine",
-                "icon": "https://logo.clearbit.com/g-voxr0321.coding.net",
-                "url": "https://g-voxr0321.coding.net/p/bpm/d/wsmp-workflow/git"
-              },
-              {
-                "type": "link",
-                "addDate": 1734075116493,
-                "title": "测试环境",
-                "icon": "https://logo.clearbit.com/wbpm-1307020016.ztnwork.com",
-                "url": "https://wbpm-1307020016.ztnwork.com/list"
-              },
-              {
-                "type": "link",
-                "addDate": 1734489137741,
-                "title": "经销商信息管理系统（DMP）说明书 - 润工作云文档",
-                "icon": "https://logo.clearbit.com/app.rwork.crc.com.cn",
-                "url": "https://app.rwork.crc.com.cn/docx/doxk9WWV3e0IRCGScvPyfx3kAP6"
-              },
-              {
-                "type": "link",
-                "addDate": 1734489175751,
-                "title": "经销商管理系统",
-                "icon": "https://logo.clearbit.com/wsmp-1307020016.ztnwork.com",
-                "url": "https://wsmp-1307020016.ztnwork.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1734491950065,
-                "title": "白酒DMP - MasterGo",
-                "icon": "https://logo.clearbit.com/mastergo.com",
-                "url": "https://mastergo.com/file/142622391761032?fileOpenFrom=drafts&fileTileSwitch=false&page_id=M&shareId=3a9141e1-cd45-44a7-acd0-791b640482e6&devMode=true"
-              },
-              {
-                "type": "link",
-                "addDate": 1734505985036,
-                "title": "华润酒业中台系统",
-                "icon": "https://logo.clearbit.com/wiap-test-1307020016.ztnwork.com",
-                "url": "https://wiap-test-1307020016.ztnwork.com/main/home/index"
-              },
-              {
-                "type": "link",
-                "addDate": 1734572857016,
-                "title": "华润酒业中台系统",
-                "icon": "https://logo.clearbit.com/wiap-test-1307020016.ztnwork.com",
-                "url": "https://wiap-test-1307020016.ztnwork.com/distributorManagement/distributor/archivesManagement/index"
-              },
-              {
-                "type": "link",
-                "addDate": 1734598784912,
-                "title": "wsmp-酒业经销商管理平台",
-                "icon": "https://logo.clearbit.com/wsmp-dev-api-1307020016.ztnwork.com",
-                "url": "https://wsmp-dev-api-1307020016.ztnwork.com/wsmp-service/doc.html#/home"
-              },
-              {
-                "type": "link",
-                "addDate": 1734751987271,
-                "title": "白酒DMP - MasterGo",
-                "icon": "https://logo.clearbit.com/mastergo.com",
-                "url": "https://mastergo.com/file/142622391761032?fileOpenFrom=drafts&fileTileSwitch=false&page_id=6%3A4829&shareId=3a9141e1-cd45-44a7-acd0-791b640482e6&devMode=true"
-              },
-              {
-                "type": "link",
-                "addDate": 1734917317828,
-                "title": "测试- 华润酒业中台系统",
-                "icon": "https://logo.clearbit.com/wiap-test-1307020016.ztnwork.com",
-                "url": "https://wiap-test-1307020016.ztnwork.com/main/workFlow/workWait/workList/index"
-              },
-              {
-                "type": "link",
-                "addDate": 1735522165062,
-                "title": "‍‌​‬‌﻿⁣‬⁢‍‍‬‬‍⁤‬‌⁡​​﻿‍‍﻿⁣‌‬⁣⁢‌⁤​‬​⁡﻿⁣⁤​⁢​​⁤‬⁣﻿‍‌⁤20241226后任务分配 - 润工作云文档",
-                "icon": "https://logo.clearbit.com/app.rwork.crc.com.cn",
-                "url": "https://app.rwork.crc.com.cn/docx/doxk9iXBPgYd1XchAtQ2vXpEHre"
-              },
-              {
-                "type": "link",
-                "addDate": 1736390411897,
-                "title": "接口文档- wsmp-酒业经销商管理平台",
-                "icon": "https://logo.clearbit.com/wsmp-dev-api-1307020016.ztnwork.com",
-                "url": "https://wsmp-dev-api-1307020016.ztnwork.com/wsmp-service/doc.html#/default/%E7%BB%8F%E9%94%80%E5%95%86%E6%A1%A3%E6%A1%88%20%E7%AE%A1%E7%90%86/findById_3"
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1732155397313,
-            "title": "能源",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1732155338100,
-                "title": "点巡检计划",
-                "icon": "https://logo.clearbit.com/acug42.axshare.com",
-                "url": "https://acug42.axshare.com/#id=9itsow&p=%E7%82%B9%E5%B7%A1%E6%A3%80%E8%AE%A1%E5%88%92&g=1"
-              },
-              {
-                "type": "link",
-                "addDate": 1732155453314,
-                "title": "能源设备管理系统-蓝湖",
-                "icon": "https://logo.clearbit.com/lanhuapp.com",
-                "url": "https://lanhuapp.com/web/#/item/project/stage?tid=b21582d4-5a30-4f58-94e6-0d4eb97d5b03&pid=caacf11b-1112-4f70-ba96-e9a1ae14a01b"
-              },
-              {
-                "type": "link",
-                "addDate": 1732433195722,
-                "title": "河南双鹤华利药业二期项目测试用例&报告 - 润工作云文档",
-                "icon": "https://logo.clearbit.com/app.rwork.crc.com.cn",
-                "url": "https://app.rwork.crc.com.cn/sheets/shtk9V7cToUjwuGhZxFfpls1Lvf?chunked=false&sheet=uSnmoT"
-              },
-              {
-                "type": "link",
-                "addDate": 1732852359190,
-                "title": "正式- 设备管理系统",
-                "icon": "https://logo.clearbit.com/10.200.14.67",
-                "url": "http://10.200.14.67:9800/#/login?redirect=%2F"
-              },
-              {
-                "type": "link",
-                "addDate": 1731657749345,
-                "title": "测试-设备管理系统",
-                "icon": "https://logo.clearbit.com/10.200.199.16",
-                "url": "http://10.200.199.16/energy-device-manage/#/index"
-              },
-              {
-                "type": "link",
-                "addDate": 1733738155845,
-                "title": "Commits · test · 润联科技-物联网云平台 / energy-device-manage-ui · GitLab",
-                "icon": "https://logo.clearbit.com/gitlab.crc.com.cn",
-                "url": "https://gitlab.crc.com.cn/crcsoft-aiot/energy-device-manage-ui/-/commits/feature?ref_type=heads"
-              },
-              {
-                "type": "link",
-                "addDate": 1735971016081,
-                "title": "‌⁣⁣​⁢‬​⁣​⁣⁤⁣⁣⁡‬​﻿﻿‬‬​​​‬﻿﻿⁡⁢‌​⁣‬⁤‬‌﻿​﻿⁡‌⁢‍⁤​‬‍​​‌⁡河南双鹤华利药业二期项目测试用例&报告 - 润工作云文档",
-                "icon": "https://logo.clearbit.com/app.rwork.crc.com.cn",
-                "url": "https://app.rwork.crc.com.cn/sheets/shtk9V7cToUjwuGhZxFfpls1Lvf"
-              },
-              {
-                "type": "link",
-                "addDate": 1736748335615,
-                "title": "移动  测试环境 218.17.168.133/energy#/ticket",
-                "icon": "https://logo.clearbit.com/218.17.168.133",
-                "url": "http://218.17.168.133/energy#/ticket"
-              },
-              {
-                "type": "link",
-                "addDate": 1736820996111,
-                "title": "编译 - 物联网云平台 - 润联行云",
-                "icon": "https://logo.clearbit.com/steam.crcloud.com",
-                "url": "https://steam.crcloud.com/3/project/1439/#/build/index"
-              },
-              {
-                "type": "link",
-                "addDate": 1736827222624,
-                "title": "移动端测试地址- 218.17.168.133/energy",
-                "icon": "https://logo.clearbit.com/218.17.168.133",
-                "url": "http://218.17.168.133/energy#/workbench"
-              },
-              {
-                "type": "link",
-                "addDate": 1736834280106,
-                "title": "正式 设备管理系统",
-                "icon": "https://logo.clearbit.com/idms.crdigital.com.cn",
-                "url": "http://idms.crdigital.com.cn:9800/#/equipment/equipmentLedger"
-              },
-              {
-                "type": "link",
-                "addDate": 1736834297447,
-                "title": "正式 移动端设备管理系统",
-                "icon": "https://logo.clearbit.com/idms-mobi.crdigital.com.cn",
-                "url": "https://idms-mobi.crdigital.com.cn/#/workbench"
-              },
-              {
-                "type": "link",
-                "addDate": 1736922755492,
-                "title": "应用概览 - 物联网云平台 - 润联行云",
-                "icon": "https://logo.clearbit.com/steam.crcloud.com",
-                "url": "https://steam.crcloud.com/3/project/1439/#/integration/11896/dashboard"
-              }
-            ]
-          },
-          {
-            "type": "link",
-            "addDate": 1728723647473,
-            "title": "华润",
-            "icon": "https://logo.clearbit.com/mima.crc.com.cn",
-            "url": "https://mima.crc.com.cn/self-service/login_check/checkUserSecurityInfo/1"
-          },
-          {
-            "type": "link",
-            "addDate": 1732699649495,
-            "title": "华润数科数字化运营平台-工时",
-            "icon": "https://logo.clearbit.com/talent.crcloud.com",
-            "url": "https://talent.crcloud.com/#/myWeekly?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MzI3ODUxODQsInVzZXJJZCI6IjEwMDUxMzc3MjMyNzgwODIwNDgifQ.Go5TKW6hqmR31Wnj1_tqNPeCVOffISF4vIekQiUReKs"
-          },
-          {
-            "type": "link",
-            "addDate": 1728884584107,
-            "title": "...-蓝湖",
-            "icon": "https://logo.clearbit.com/lanhuapp.com",
-            "url": "https://lanhuapp.com/web/#/item/project/stage?pid=caacf11b-1112-4f70-ba96-e9a1ae14a01b&image_id=f022a455-51ea-4ca9-82c2-9e624633cc82&tid=b21582d4-5a30-4f58-94e6-0d4eb97d5b03"
-          },
-          {
-            "type": "link",
-            "addDate": 1728957088761,
-            "title": "能源管理系统: 能源管理系统~~~~",
-            "icon": "https://logo.clearbit.com/gitee.com",
-            "url": "https://gitee.com/energy_things/ems"
-          },
-          {
-            "type": "link",
-            "addDate": 1729058027795,
-            "title": "上海思芮信息科技有限公司-邮箱",
-            "icon": "https://logo.clearbit.com/mailh.qiye.163.com",
-            "url": "https://mailh.qiye.163.com/static/sirius-web/?version=1725348844807/#mailbox"
-          },
-          {
-            "type": "link",
-            "addDate": 1729217273240,
-            "title": "ems-apifox",
-            "icon": "https://logo.clearbit.com/app.apifox.com",
-            "url": "https://app.apifox.com/project/3776545"
-          },
-          {
-            "type": "link",
-            "addDate": 1729310651507,
-            "title": "标注-新增开关-综合能源云 - 蓝湖",
-            "icon": "https://logo.clearbit.com/lanhuapp.com",
-            "url": "https://lanhuapp.com/web/#/item/project/detailDetach?pid=8ab92dd1-8205-4311-8c63-7e5cb849e894&project_id=8ab92dd1-8205-4311-8c63-7e5cb849e894&image_id=f4815291-2b8d-45c3-8364-8adeb810cb10&fromEditor=true"
-          },
-          {
-            "type": "link",
-            "addDate": 1729397679565,
-            "title": "能源节能管理平台前端: 能源节能管理平台前端",
-            "icon": "https://logo.clearbit.com/gitee.com",
-            "url": "https://gitee.com/gitgh/ems-ui"
-          },
-          {
-            "type": "link",
-            "addDate": 1729474548368,
-            "title": "⁢⁡‍​⁣⁢​⁢‍‍⁣‍⁢​‌​⁢﻿⁣⁤​‬⁤‬‬‌​﻿​‍​⁣⁢‬﻿‬⁡​⁣⁡‬⁢⁢‬‬⁤​​慧盾UES手动安装手册 - 润工作云文档",
-            "icon": "https://logo.clearbit.com/app.rwork.crc.com.cn",
-            "url": "https://app.rwork.crc.com.cn/docs/dock91zaKjEvp7m25OinHKD3qtc#XwZwon"
-          },
-          {
-            "type": "link",
-            "addDate": 1729502501940,
-            "title": "能源-功能清单  Sheet",
-            "icon": "https://logo.clearbit.com/app.rwork.crc.com.cn",
-            "url": "https://app.rwork.crc.com.cn/sheets/shtk9xTinWuecOW1EjXfUH3Dtdg?chunked=false"
-          },
-          {
-            "type": "link",
-            "addDate": 1730280156669,
-            "title": "‌‌‍﻿‌⁣‌‌⁤​‌⁡​‍‌⁢​﻿‬⁡‌‬​⁡⁤‍⁡⁤﻿﻿‌⁣​⁡​⁡⁢‬​⁡⁢⁣⁡‌⁡⁢‍﻿​‬“慧盾UES”新增业务资源指引 - 润工作云文档",
-            "icon": "https://logo.clearbit.com/app.rwork.crc.com.cn",
-            "url": "https://app.rwork.crc.com.cn/docs/dock99fafkvogwvSABIBtWqx6vb"
-          },
-          {
-            "type": "link",
-            "addDate": 1730361988886,
-            "title": "AnyGo 6.9.5 iOS虚拟定位工具 - 精品MAC应用分享",
-            "icon": "https://logo.clearbit.com/xclient.info",
-            "url": "https://xclient.info/s/anygo.html?a=dl&v=6.9.5&k=0&t=029e81729e4cdfe5cce001b2628f007ba9040f48"
-          },
-          {
-            "type": "link",
-            "addDate": 1730687712920,
-            "title": "能效设备管理系统apifox 接口",
-            "icon": "https://logo.clearbit.com/app.apifox.com",
-            "url": "https://app.apifox.com/project/5400294"
-          },
-          {
-            "type": "link",
-            "addDate": 1731556513840,
-            "title": "能源设备管理   /energy-device-manage-ui",
-            "icon": "https://logo.clearbit.com/gitee.com",
-            "url": "https://gitee.com/who-else/energy-device-manage-ui"
-          },
-          {
-            "type": "link",
-            "addDate": 1731830855082,
-            "title": "‌⁤​⁡⁡‌​​﻿‍﻿﻿⁡⁣‬​⁡⁤‌⁤‬⁢‍﻿‌‌‌‍‍⁡‍‍⁣⁢‍⁡⁣⁢‌​​⁣​⁤﻿﻿⁤﻿‍‬慧盾UES安装包 - 润工作云文档",
-            "icon": "https://logo.clearbit.com/app.rwork.crc.com.cn",
-            "url": "https://app.rwork.crc.com.cn/docx/doxk96uiguErVfE0jtSX9qpnSzf"
-          },
-          {
-            "type": "link",
-            "addDate": 1731841111710,
-            "title": "河南双鹤华利药业设备管理系统调研表 - 润工作云文档",
-            "icon": "https://logo.clearbit.com/app.rwork.crc.com.cn",
-            "url": "https://app.rwork.crc.com.cn/sheets/shtk9itM7tWGnukM8tDK8BSbMpe?sheet=e8c5f2"
-          },
-          {
-            "type": "link",
-            "addDate": 1732023381105,
-            "title": "润联科技-物联网云平台 / energy-device-manage-ui · GitLab",
-            "icon": "https://logo.clearbit.com/gitlab.crc.com.cn",
-            "url": "https://gitlab.crc.com.cn/crcsoft-aiot/energy-device-manage-ui"
-          },
-          {
-            "type": "link",
-            "addDate": 1731982127473,
-            "title": "iconfont-阿里巴巴矢量图标库",
-            "icon": "https://logo.clearbit.com/www.iconfont.cn",
-            "url": "https://www.iconfont.cn/manage/index?manage_type=myprojects&projectId=4750487"
-          },
-          {
-            "type": "link",
-            "addDate": 1732701050911,
-            "title": "数字化中台-功能管理",
-            "icon": "https://logo.clearbit.com/10.200.199.16",
-            "url": "http://10.200.199.16/#/base/resource_manage"
-          },
-          {
-            "type": "link",
-            "addDate": 1733381790140,
-            "title": "权限管理平台-资源管理",
-            "icon": "https://logo.clearbit.com/116.205.164.197",
-            "url": "http://116.205.164.197:8080/#/base/resource_manage"
-          },
-          {
-            "type": "link",
-            "addDate": 1738994869688,
-            "title": "润联科技-物联网云平台 / gas-security-could-ui · GitLab",
-            "icon": "https://logo.clearbit.com/gitlab.crc.com.cn",
-            "url": "https://gitlab.crc.com.cn/crcsoft-aiot/gas-security-could-ui"
-          },
-          {
-            "type": "link",
-            "addDate": 1739159395876,
-            "title": "主页 - 润工作云文档",
-            "icon": "https://logo.clearbit.com/app.rwork.crc.com.cn",
-            "url": "https://app.rwork.crc.com.cn/drive/home/"
-          }
-        ]
       },
       {
         "type": "folder",
@@ -4802,7 +4438,7 @@
                   {
                     "type": "link",
                     "addDate": 1716559579039,
-                    "title": "alchemy 以太坊 Sepolia 水龙头 al  --- Ethereum Sepolia Faucet",
+                    "title": "alchemy 以太坊 Sepolia eth水龙头 al  --- Ethereum Sepolia Faucet",
                     "icon": "https://logo.clearbit.com/www.alchemy.com",
                     "url": "https://www.alchemy.com/faucets/ethereum-sepolia"
                   },
@@ -4896,6 +4532,27 @@
                     "title": "测试网代币  水龙头 多个Sepolia Faucet - 获取测试网代币 --- Optimism Sepolia Faucet - Get Testnet Tokens",
                     "icon": "https://logo.clearbit.com/faucets.chain.link",
                     "url": "https://faucets.chain.link/optimism-sepolia?_gl=1*1c148rb*_ga*OTU0NDQ5MDU0LjE3MzY5MjEwOTc.*_ga_8LKS5QFB97*MTczNjkyMTA5Ny4xLjEuMTczNjkyMTE3MC4wLjAuMA.."
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1751638511020,
+                    "title": "波场测试币 TRON | NILE TESTNET --- TRON | NILE TESTNET",
+                    "icon": "https://logo.clearbit.com/nileex.io",
+                    "url": "https://nileex.io/join/getJoinPage"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1751966493303,
+                    "title": "欧易领水中心｜领取测试代币 | 欧易",
+                    "icon": "https://logo.clearbit.com/web3.okx.com",
+                    "url": "https://web3.okx.com/zh-hans/faucet"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1752050724685,
+                    "title": "在 X Layer 上领取 OKB测试币 | 欧易",
+                    "icon": "https://logo.clearbit.com/web3.okx.com",
+                    "url": "https://web3.okx.com/zh-hans/xlayer/faucet/xlayerfaucet"
                   }
                 ]
               },
@@ -7035,13 +6692,6 @@
               },
               {
                 "type": "link",
-                "addDate": 1736694608605,
-                "title": "OKX交易所 OKX全球领先的比特币交易平台 | 比特币行情价格 | 欧易",
-                "icon": "https://logo.clearbit.com/www.okx.com",
-                "url": "https://www.okx.com/zh-hans"
-              },
-              {
-                "type": "link",
                 "addDate": 1736818361561,
                 "title": "web3 开发者教育、激励和成长的中心 ， web3招聘TinTinLand Community ",
                 "icon": "https://logo.clearbit.com/attractive-spade-1e3.notion.site",
@@ -7319,6 +6969,384 @@
                 "title": "币安——比特币、以太币以及竞争币等加密货币的交易平台",
                 "icon": "https://logo.clearbit.com/www.binance.com",
                 "url": "https://www.binance.com/zh-CN"
+              },
+              {
+                "type": "link",
+                "addDate": 1751694316698,
+                "title": "Reown 钱包交互demo",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/reown-com"
+              },
+              {
+                "type": "link",
+                "addDate": 1751894089140,
+                "title": "work OKX全球领先的比特币交易平台 | 比特币行情价格 | 欧易",
+                "icon": "https://logo.clearbit.com/www.okx.com",
+                "url": "https://www.okx.com/zh-hans/account/users/social-account"
+              },
+              {
+                "type": "link",
+                "addDate": 1751894221307,
+                "title": "OKX Wallet：一个钱包通往 Web3、DeFi 和多链世界 | 欧易",
+                "icon": "https://logo.clearbit.com/web3.okx.com",
+                "url": "https://web3.okx.com/zh-hans"
+              },
+              {
+                "type": "link",
+                "addDate": 1751894374833,
+                "title": " 欧okx 我的资产",
+                "icon": "https://logo.clearbit.com/web3.okx.com",
+                "url": "https://web3.okx.com/zh-hans/portfolio"
+              },
+              {
+                "type": "link",
+                "addDate": 1751980779049,
+                "title": "X Layer 测试网跨链桥 | 欧易",
+                "icon": "https://logo.clearbit.com/web3.okx.com",
+                "url": "https://web3.okx.com/zh-hans/xlayer/bridge-test#fromChainId=195"
+              },
+              {
+                "type": "link",
+                "addDate": 1752233593208,
+                "title": "钱包链接 reown-com/appkit-web-examples: Web dApp examples implementing Reown AppKit",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/reown-com/appkit-web-examples/tree/main"
+              },
+              {
+                "type": "link",
+                "addDate": 1753248861477,
+                "title": "⁡⁡⁣⁣⁡‬​⁣﻿⁣‬⁡⁤⁤‬​‬‍⁡⁤⁤⁢​​﻿﻿‬⁢​⁢⁡‍﻿​‌‌‌​⁡⁢‌﻿‌‬‌‌﻿﻿⁤程序员远程转型攻略（持续更新...) - 飞书云文档",
+                "icon": "https://logo.clearbit.com/wcngrtwsafnt.feishu.cn",
+                "url": "https://wcngrtwsafnt.feishu.cn/wiki/IPpdwiIA2i8DbmkYynjc8eUbngc"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1714225843395,
+            "title": "远程",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1692089380030,
+                "title": "Vue.js jobs – Browse through dozens of Vue.js openings",
+                "icon": "https://logo.clearbit.com/vuejobs.com",
+                "url": "https://vuejobs.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1681538565629,
+                "title": "电鸭社区-专注远程工作招聘交流-远程工作，从电鸭开始",
+                "icon": "https://logo.clearbit.com/eleduck.com",
+                "url": "https://eleduck.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1714548455775,
+                "title": "招聘 --- Recruitment",
+                "icon": "https://logo.clearbit.com/workforcenow.adp.com",
+                "url": "https://workforcenow.adp.com/mascsr/applicant/mdf/recruitment/postLogin.html?cid=22926ccf-d482-4536-b105-60751470f17e&ccId=9200634797651_2&lang=en_CA&jobId=503941&jobId=503941&requisitionId=9200681733455_1&params=jobId&OTP_login=true"
+              },
+              {
+                "type": "link",
+                "addDate": 1715522173102,
+                "title": "Vue.js 技术论坛 | Vue.js 开发者社区",
+                "icon": "https://logo.clearbit.com/learnku.com",
+                "url": "https://learnku.com/vuejs"
+              },
+              {
+                "type": "link",
+                "addDate": 1715611312318,
+                "title": "remote ok 远程岗位",
+                "icon": "https://logo.clearbit.com/remoteok.com",
+                "url": "https://remoteok.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715658902609,
+                "title": "LearnKu 终身编程者的知识社区",
+                "icon": "https://logo.clearbit.com/learnku.com",
+                "url": "https://learnku.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1723380464044,
+                "title": "Web3 职位：区块链、智能合约和加密货币职位 --- Web3 Jobs: Blockchain, Smart Contract and Crypto Jobs",
+                "icon": "https://logo.clearbit.com/web3.career",
+                "url": "https://web3.career/"
+              },
+              {
+                "type": "link",
+                "addDate": 1723380511973,
+                "title": "Senior QA Engineer - Moralis Web3 Technology",
+                "icon": "https://logo.clearbit.com/talent.moralis.io",
+                "url": "https://talent.moralis.io/jobs/1996217-senior-qa-engineer"
+              },
+              {
+                "type": "link",
+                "addDate": 1726150027922,
+                "title": "Web Jobs - Remote Work From Home & Online | FlexJobs",
+                "icon": "https://logo.clearbit.com/www.flexjobs.com",
+                "url": "https://www.flexjobs.com/remote-jobs/web?searchkeyword=Front%20End%20Developer&useclocation=true"
+              },
+              {
+                "type": "link",
+                "addDate": 1749180904102,
+                "title": "Web3 Jobs - 区块链、加密货币工作 (2025 年 6 月新增 69 个职位) --- Web3 Jobs - Blockchain, Crypto Jobs (69 new in June 2025)",
+                "icon": "https://logo.clearbit.com/www.remote3.co",
+                "url": "https://www.remote3.co/"
+              },
+              {
+                "type": "link",
+                "addDate": 1749180924248,
+                "title": "Upwork | The World’s Work Marketplace",
+                "icon": "https://logo.clearbit.com/www.upwork.com",
+                "url": "https://www.upwork.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1749180946498,
+                "title": "Web3 求职网站大全 | 登链社区 | 区块链技术社区",
+                "icon": "https://logo.clearbit.com/learnblockchain.cn",
+                "url": "https://learnblockchain.cn/article/jobs"
+              },
+              {
+                "type": "link",
+                "addDate": 1749184348735,
+                "title": "加入人才库 加入 abetterweb3 人才墙",
+                "icon": "https://logo.clearbit.com/forms.fillout.com",
+                "url": "https://forms.fillout.com/t/qHGhNkJepYus"
+              },
+              {
+                "type": "link",
+                "addDate": 1749184982742,
+                "title": "Web Developer (Frontend) at StackTrek - HackQuest",
+                "icon": "https://logo.clearbit.com/www.hackquest.io",
+                "url": "https://www.hackquest.io/zh-cn/jobs/322605"
+              },
+              {
+                "type": "link",
+                "addDate": 1749185152412,
+                "title": "abetterweb3",
+                "icon": "https://logo.clearbit.com/abetterweb3.notion.site",
+                "url": "https://abetterweb3.notion.site/"
+              },
+              {
+                "type": "link",
+                "addDate": 1749186369952,
+                "title": "Blockchain.com 的職位",
+                "icon": "https://logo.clearbit.com/job-boards.greenhouse.io",
+                "url": "https://job-boards.greenhouse.io/blockchain?gh_src=cryptocurrencyjobs.co"
+              },
+              {
+                "type": "link",
+                "addDate": 1749186697101,
+                "title": "Wellfound (formerly AngelList Talent) - Startup Job Search",
+                "icon": "https://logo.clearbit.com/wellfound.com",
+                "url": "https://wellfound.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1749186863306,
+                "title": "Dream Startup Job",
+                "icon": "https://logo.clearbit.com/www.dreamstartupjob.com",
+                "url": "https://www.dreamstartupjob.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1749187428405,
+                "title": "Issues · rebase-network/who-is-hiring",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/rebase-network/who-is-hiring/issues/?q=sort%3Aupdated-desc%20is%3Aissue%20is%3Aopen%20Front-end"
+              },
+              {
+                "type": "link",
+                "addDate": 1749188108646,
+                "title": "rebase-network/who-is-hiring: 这个仓库是由 Rebase 社区创建的，为区块链行业以及其他各行各业的企业和团队提供招聘信息披露机会，所有招聘信息都将在 Rebase 社区的所有媒体上进行发表。这都是免费的！",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/rebase-network/who-is-hiring"
+              },
+              {
+                "type": "link",
+                "addDate": 1749190455541,
+                "title": "X-Team 的职位 --- Jobs at X-Team",
+                "icon": "https://logo.clearbit.com/jobs.x-team.com",
+                "url": "https://jobs.x-team.com/jobs/2115/"
+              },
+              {
+                "type": "link",
+                "addDate": 1749191157644,
+                "title": "TG招聘-全球找工作上TG招聘直接谈！招聘求职找工作！",
+                "icon": "https://logo.clearbit.com/www.jobtg.ai",
+                "url": "https://www.jobtg.ai/"
+              },
+              {
+                "type": "link",
+                "addDate": 1749279132735,
+                "title": "人才库（按编辑时间由新到旧） | 开发",
+                "icon": "https://logo.clearbit.com/abetterweb3.notion.site",
+                "url": "https://abetterweb3.notion.site/57b3f805061944229c495d20284ce161?v=12b6d57e7e7740c193d6d79e5da46807"
+              },
+              {
+                "type": "link",
+                "addDate": 1751018738124,
+                "title": "DeJob 专注于Web3、远程招聘",
+                "icon": "https://logo.clearbit.com/www.dejob.top",
+                "url": "https://www.dejob.top/"
+              },
+              {
+                "type": "link",
+                "addDate": 1751260566859,
+                "title": "远程岗位 前端开发者工作 | Upwork™ --- Frontend Developer Jobs | Upwork™",
+                "icon": "https://logo.clearbit.com/www.upwork.com",
+                "url": "https://www.upwork.com/freelance-jobs/frontend-development/"
+              },
+              {
+                "type": "link",
+                "addDate": 1750051532080,
+                "title": "黑客松 HitaJobs Web3、区块链、远程招聘",
+                "icon": "https://logo.clearbit.com/hitajobs.com",
+                "url": "https://hitajobs.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1751278745715,
+                "title": "‌⁣⁢⁢‬⁣⁣​‍⁤‌⁣﻿​⁣⁤⁡⁡​⁢‬‌‬⁢​⁢​﻿​⁢​⁡⁤﻿‌​‬‌‍﻿​⁢‬‬​‬猿代码岗位-web3岗位资源管理对外版 - 飞书云文档",
+                "icon": "https://logo.clearbit.com/h5mjscvxuj.feishu.cn",
+                "url": "https://h5mjscvxuj.feishu.cn/sheets/ScdYsiuRMhTjzFt0rdXcCyshnom"
+              },
+              {
+                "type": "link",
+                "addDate": 1751289039594,
+                "title": "Explore Top Web3 and Crypto Jobs| Bondex",
+                "icon": "https://logo.clearbit.com/bondex.app",
+                "url": "https://bondex.app/job-portal?department=Engineering&workingStyle=Remote&experience=&jobType=&page=1&count=60&hasBounty=false&search=front-end&location=&orderBy=1"
+              },
+              {
+                "type": "link",
+                "addDate": 1751343459803,
+                "title": "Job3  岗位",
+                "icon": "https://logo.clearbit.com/h5.job3.co",
+                "url": "https://h5.job3.co/"
+              },
+              {
+                "type": "link",
+                "addDate": 1751421912808,
+                "title": "Web3jobs Service Network",
+                "icon": "https://logo.clearbit.com/www.jobsweb3.net",
+                "url": "https://www.jobsweb3.net/#/position"
+              },
+              {
+                "type": "link",
+                "addDate": 1751601553167,
+                "title": "Bossjob - A Chat-first Career Platform for Professionals in Global Countries",
+                "icon": "https://logo.clearbit.com/bossjob.com",
+                "url": "https://bossjob.com/en-us/jobseeker-complete-profile?step=1&from=chat&chatJobId=335920"
+              },
+              {
+                "type": "link",
+                "addDate": 1751719958187,
+                "title": "Companies | Dragonfly Job Board",
+                "icon": "https://logo.clearbit.com/jobs.dragonfly.xyz",
+                "url": "https://jobs.dragonfly.xyz/companies"
+              },
+              {
+                "type": "link",
+                "addDate": 1751720285251,
+                "title": "工作 | Paradigm 职位板 --- Jobs | Paradigm Job Board",
+                "icon": "https://logo.clearbit.com/jobs.paradigm.xyz",
+                "url": "https://jobs.paradigm.xyz/jobs?filter=eyJzZWFyY2hhYmxlX2xvY2F0aW9uX29wdGlvbiI6WyJyZW1vdGUiXX0%3D&q=front"
+              },
+              {
+                "type": "link",
+                "addDate": 1751720295217,
+                "title": "Andreessen Horowitz 公司的职位 | Andreessen Horowitz --- Jobs at Andreessen Horowitz Companies | Andreessen Horowitz",
+                "icon": "https://logo.clearbit.com/jobs.a16z.com",
+                "url": "https://jobs.a16z.com/companies"
+              },
+              {
+                "type": "folder",
+                "addDate": 1713843451348,
+                "title": "remote-远程",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1713843405384,
+                    "title": "bitfree",
+                    "icon": "https://logo.clearbit.com/bitfree.cn",
+                    "url": "https://bitfree.cn/#/login"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1713843471660,
+                    "title": "️🌟 bitfree开发者社区 （PC端打开） | 极海Channel",
+                    "icon": "https://logo.clearbit.com/jihaichannel.github.io",
+                    "url": "https://jihaichannel.github.io/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1713843512443,
+                    "title": "OpenBuild",
+                    "icon": "https://logo.clearbit.com/openbuild.xyz",
+                    "url": "https://openbuild.xyz/learn/courses"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1738820984410,
+                    "title": "如何加入？",
+                    "icon": "https://logo.clearbit.com/ethereum.org",
+                    "url": "https://ethereum.org/zh/community/get-involved/#ethereum-jobs"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1738821005024,
+                    "title": "Jobs | Solana Network Opportunities Job Board",
+                    "icon": "https://logo.clearbit.com/jobs.solana.com",
+                    "url": "https://jobs.solana.com/jobs"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1738821036641,
+                    "title": "Cryptocurrency Jobs and Blockchain Jobs - Cryptocurrency Jobs",
+                    "icon": "https://logo.clearbit.com/cryptocurrencyjobs.co",
+                    "url": "https://cryptocurrencyjobs.co/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1738821183437,
+                    "title": "Ethereum Jobs — Jobs in startups & companies buidling on Ethereum - Feb 2025 (10 New)",
+                    "icon": "https://logo.clearbit.com/cryptojobslist.com",
+                    "url": "https://cryptojobslist.com/ethereum"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1738898590528,
+                    "title": "人才",
+                    "icon": "https://logo.clearbit.com/abetterweb3.notion.site",
+                    "url": "https://abetterweb3.notion.site/66b2a65ed21d47fea1853207d7855301"
+                  }
+                ]
+              },
+              {
+                "type": "link",
+                "addDate": 1752649930349,
+                "title": "Full-Stack Developer (Front-End Focused)",
+                "icon": "https://logo.clearbit.com/engineer.joinbrix.com.cn",
+                "url": "https://engineer.joinbrix.com.cn/home"
+              },
+              {
+                "type": "link",
+                "addDate": 1753160303564,
+                "title": "Web3 Jobs - 区块链、加密货币工作 (2025 年 7 月新增 69 个职位) --- Web3 Jobs - Blockchain, Crypto Jobs (69 new in July 2025)",
+                "icon": "https://logo.clearbit.com/www.remote3.co",
+                "url": "https://www.remote3.co/?ref=web3internships.com"
+              },
+              {
+                "type": "link",
+                "addDate": 1753161082259,
+                "title": "Remote Web3 Jobs (975 New in July 2025)",
+                "icon": "https://logo.clearbit.com/www.remote3.co",
+                "url": "https://www.remote3.co/remote-web3-jobs"
               }
             ]
           },
@@ -8765,6 +8793,41 @@
                 "title": "海贼宝藏 - 专注IT就业与计算机考研在线学习平台 - Powered By EduSoho",
                 "icon": "https://logo.clearbit.com/www.haizeix.com",
                 "url": "https://www.haizeix.com/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1753959246341,
+            "title": "哲玄项目实战",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1753959199586,
+                "title": "项目 - 个人中心 - 腾讯工蜂",
+                "icon": "https://logo.clearbit.com/git.code.tencent.com",
+                "url": "https://git.code.tencent.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1753959258962,
+                "title": "‌﻿﻿​⁢​⁡⁤​⁣‍‍﻿⁡​​⁣⁤﻿⁣​﻿‌﻿‬⁢﻿﻿⁡⁡​​‬​‍⁤‌‬⁡⁤﻿⁤⁣⁢⁡⁤⁤⁤‬﻿合并请求列表 - 飞书云文档",
+                "icon": "https://logo.clearbit.com/eizwbs2n02l.feishu.cn",
+                "url": "https://eizwbs2n02l.feishu.cn/docx/NLYTd9qtgogEgQxaG7OcVJN4nle"
+              },
+              {
+                "type": "link",
+                "addDate": 1753959265470,
+                "title": "‍​⁤﻿‌⁤⁣⁡​​‍‬⁡​⁢⁢​⁣⁣⁤‬‬﻿‍﻿‍‍‬⁣‍⁤​‌‌⁢‌‍⁣⁡⁣⁡​‬⁢⁢⁢‍⁢⁣⁣项目问题及优化建议 - 飞书云文档",
+                "icon": "https://logo.clearbit.com/eizwbs2n02l.feishu.cn",
+                "url": "https://eizwbs2n02l.feishu.cn/docx/CROYdHJAroP4mtxIxaGcOurRnHc"
+              },
+              {
+                "type": "link",
+                "addDate": 1753959268077,
+                "title": "⁣​‬‌⁡‌‍‌‬​⁤⁤​⁡﻿⁡‌​﻿⁢⁤‬⁡﻿⁤⁢﻿‌﻿‬‬‍​⁢⁡⁣﻿‍⁣‌⁡﻿‌⁤‬﻿⁣‬学习资料 - 飞书云文档",
+                "icon": "https://logo.clearbit.com/eizwbs2n02l.feishu.cn",
+                "url": "https://eizwbs2n02l.feishu.cn/docx/DjVidlLuKoi6HSx9EjZcJ92UnOe"
               }
             ]
           },
@@ -11854,48 +11917,6 @@
               },
               {
                 "type": "folder",
-                "addDate": 1679369126131,
-                "title": "移动端",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1679369115277,
-                    "title": "uni-app官网",
-                    "icon": "https://logo.clearbit.com/uniapp.dcloud.net.cn",
-                    "url": "https://uniapp.dcloud.net.cn/quickstart-cli.html"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1679369111496,
-                    "title": "简介 · React Native 中文网",
-                    "icon": "https://logo.clearbit.com/www.reactnative.cn",
-                    "url": "https://www.reactnative.cn/docs/getting-started"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1679459940964,
-                    "title": "Download Android Studio & App Tools - Android Developers",
-                    "icon": "https://logo.clearbit.com/developer.android.com",
-                    "url": "https://developer.android.com/studio?utm_source=android-studio"
-                  }
-                ]
-              },
-              {
-                "type": "folder",
-                "addDate": 1679310969343,
-                "title": "Node",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1679310951855,
-                    "title": "(26条消息) Mac -- VScode配置leetcode环境,解决node.js环境报错问题_RAINWAO的博客-CSDN博客",
-                    "icon": "https://logo.clearbit.com/blog.csdn.net",
-                    "url": "https://blog.csdn.net/RAINWAO/article/details/128498784?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-0-128498784-blog-107520486.pc_relevant_3mothn_strategy_and_data_recovery&spm=1001.2101.3001.4242.1&utm_relevant_index=3"
-                  }
-                ]
-              },
-              {
-                "type": "folder",
                 "addDate": 1679280313112,
                 "title": "低代码",
                 "children": [
@@ -12535,6 +12556,13 @@
                     "title": "Codelf：变量命名的灵感源泉",
                     "icon": "https://logo.clearbit.com/unbug.github.io",
                     "url": "https://unbug.github.io/codelf/#code"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1752478391993,
+                    "title": "Flexbox Labs 在线",
+                    "icon": "https://logo.clearbit.com/flexboxlabs.netlify.app",
+                    "url": "https://flexboxlabs.netlify.app/"
                   }
                 ]
               },
@@ -16545,13 +16573,6 @@
           },
           {
             "type": "link",
-            "addDate": 1691027965797,
-            "title": "nuxt/devtools：释放 Nuxt 开发人员体验",
-            "icon": "https://logo.clearbit.com/github.com",
-            "url": "https://github.com/nuxt/devtools"
-          },
-          {
-            "type": "link",
             "addDate": 1691028432534,
             "title": "vuepress-theme-hope/vuepress-theme-hope: A vuepress theme with tons of features✨",
             "icon": "https://logo.clearbit.com/github.com",
@@ -16771,83 +16792,6 @@
                 "title": "Roo Cline - Visual Studio Marketplace",
                 "icon": "https://logo.clearbit.com/marketplace.visualstudio.com",
                 "url": "https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline"
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1713843451348,
-            "title": "remote-远程",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1713843405384,
-                "title": "bitfree",
-                "icon": "https://logo.clearbit.com/bitfree.cn",
-                "url": "https://bitfree.cn/#/login"
-              },
-              {
-                "type": "link",
-                "addDate": 1713843471660,
-                "title": "️🌟 bitfree开发者社区 （PC端打开） | 极海Channel",
-                "icon": "https://logo.clearbit.com/jihaichannel.github.io",
-                "url": "https://jihaichannel.github.io/"
-              },
-              {
-                "type": "link",
-                "addDate": 1713843512443,
-                "title": "OpenBuild",
-                "icon": "https://logo.clearbit.com/openbuild.xyz",
-                "url": "https://openbuild.xyz/learn/courses"
-              },
-              {
-                "type": "link",
-                "addDate": 1738820984410,
-                "title": "如何加入？",
-                "icon": "https://logo.clearbit.com/ethereum.org",
-                "url": "https://ethereum.org/zh/community/get-involved/#ethereum-jobs"
-              },
-              {
-                "type": "link",
-                "addDate": 1738821005024,
-                "title": "Jobs | Solana Network Opportunities Job Board",
-                "icon": "https://logo.clearbit.com/jobs.solana.com",
-                "url": "https://jobs.solana.com/jobs"
-              },
-              {
-                "type": "link",
-                "addDate": 1738821036641,
-                "title": "Cryptocurrency Jobs and Blockchain Jobs - Cryptocurrency Jobs",
-                "icon": "https://logo.clearbit.com/cryptocurrencyjobs.co",
-                "url": "https://cryptocurrencyjobs.co/"
-              },
-              {
-                "type": "link",
-                "addDate": 1738821183437,
-                "title": "Ethereum Jobs — Jobs in startups & companies buidling on Ethereum - Feb 2025 (10 New)",
-                "icon": "https://logo.clearbit.com/cryptojobslist.com",
-                "url": "https://cryptojobslist.com/ethereum"
-              },
-              {
-                "type": "link",
-                "addDate": 1738858239804,
-                "title": "Brix Engineer",
-                "icon": "https://logo.clearbit.com/engineer.joinbrix.com.cn",
-                "url": "https://engineer.joinbrix.com.cn/login?redirect=https://engineer.joinbrix.com.cn/jobs/detail/1336265265530556416"
-              },
-              {
-                "type": "link",
-                "addDate": 1738897835709,
-                "title": "Brix Engineer",
-                "icon": "https://logo.clearbit.com/engineer.joinbrix.com.cn",
-                "url": "https://engineer.joinbrix.com.cn/home"
-              },
-              {
-                "type": "link",
-                "addDate": 1738898590528,
-                "title": "人才",
-                "icon": "https://logo.clearbit.com/abetterweb3.notion.site",
-                "url": "https://abetterweb3.notion.site/66b2a65ed21d47fea1853207d7855301"
               }
             ]
           },
@@ -17970,6 +17914,13 @@
             "title": "适用于任何网站的快速视频下载器 - DataTool.vip",
             "icon": "https://logo.clearbit.com/www.datatool.vip",
             "url": "https://www.datatool.vip/"
+          },
+          {
+            "type": "link",
+            "addDate": 1752478438119,
+            "title": "docsmall - 免费的在线图片、PDF处理工具",
+            "icon": "https://logo.clearbit.com/docsmall.com",
+            "url": "https://docsmall.com/"
           }
         ]
       },
@@ -20267,242 +20218,11 @@
             "url": "https://www.v2ex.com/member/bigWaterBuffalo"
           },
           {
-            "type": "folder",
-            "addDate": 1714225843395,
-            "title": "远程",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1692089380030,
-                "title": "Vue.js jobs – Browse through dozens of Vue.js openings",
-                "icon": "https://logo.clearbit.com/vuejobs.com",
-                "url": "https://vuejobs.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1681538565629,
-                "title": "电鸭社区-专注远程工作招聘交流-远程工作，从电鸭开始",
-                "icon": "https://logo.clearbit.com/eleduck.com",
-                "url": "https://eleduck.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1714548455775,
-                "title": "招聘 --- Recruitment",
-                "icon": "https://logo.clearbit.com/workforcenow.adp.com",
-                "url": "https://workforcenow.adp.com/mascsr/applicant/mdf/recruitment/postLogin.html?cid=22926ccf-d482-4536-b105-60751470f17e&ccId=9200634797651_2&lang=en_CA&jobId=503941&jobId=503941&requisitionId=9200681733455_1&params=jobId&OTP_login=true"
-              },
-              {
-                "type": "link",
-                "addDate": 1715522173102,
-                "title": "Vue.js 技术论坛 | Vue.js 开发者社区",
-                "icon": "https://logo.clearbit.com/learnku.com",
-                "url": "https://learnku.com/vuejs"
-              },
-              {
-                "type": "link",
-                "addDate": 1715611299492,
-                "title": "web3招聘平台 - Bole Jobs",
-                "icon": "https://logo.clearbit.com/www.bolejobs.com",
-                "url": "https://www.bolejobs.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1715611312318,
-                "title": "remote ok 远程岗位",
-                "icon": "https://logo.clearbit.com/remoteok.com",
-                "url": "https://remoteok.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1712737648298,
-                "title": "前端招聘-加入我们 | INFINI Labs",
-                "icon": "https://logo.clearbit.com/infinilabs.cn",
-                "url": "https://infinilabs.cn/career/"
-              },
-              {
-                "type": "link",
-                "addDate": 1715658902609,
-                "title": "LearnKu 终身编程者的知识社区",
-                "icon": "https://logo.clearbit.com/learnku.com",
-                "url": "https://learnku.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1723380464044,
-                "title": "Web3 职位：区块链、智能合约和加密货币职位 --- Web3 Jobs: Blockchain, Smart Contract and Crypto Jobs",
-                "icon": "https://logo.clearbit.com/web3.career",
-                "url": "https://web3.career/"
-              },
-              {
-                "type": "link",
-                "addDate": 1723380511973,
-                "title": "Senior QA Engineer - Moralis Web3 Technology",
-                "icon": "https://logo.clearbit.com/talent.moralis.io",
-                "url": "https://talent.moralis.io/jobs/1996217-senior-qa-engineer"
-              },
-              {
-                "type": "link",
-                "addDate": 1726150027922,
-                "title": "Web Jobs - Remote Work From Home & Online | FlexJobs",
-                "icon": "https://logo.clearbit.com/www.flexjobs.com",
-                "url": "https://www.flexjobs.com/remote-jobs/web?searchkeyword=Front%20End%20Developer&useclocation=true"
-              },
-              {
-                "type": "link",
-                "addDate": 1749180904102,
-                "title": "Web3 Jobs - 区块链、加密货币工作 (2025 年 6 月新增 69 个职位) --- Web3 Jobs - Blockchain, Crypto Jobs (69 new in June 2025)",
-                "icon": "https://logo.clearbit.com/www.remote3.co",
-                "url": "https://www.remote3.co/"
-              },
-              {
-                "type": "link",
-                "addDate": 1749180924248,
-                "title": "Upwork | The World’s Work Marketplace",
-                "icon": "https://logo.clearbit.com/www.upwork.com",
-                "url": "https://www.upwork.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1749180946498,
-                "title": "Web3 求职网站大全 | 登链社区 | 区块链技术社区",
-                "icon": "https://logo.clearbit.com/learnblockchain.cn",
-                "url": "https://learnblockchain.cn/article/jobs"
-              },
-              {
-                "type": "link",
-                "addDate": 1749184348735,
-                "title": "加入人才库 加入 abetterweb3 人才墙",
-                "icon": "https://logo.clearbit.com/forms.fillout.com",
-                "url": "https://forms.fillout.com/t/qHGhNkJepYus"
-              },
-              {
-                "type": "link",
-                "addDate": 1749184982742,
-                "title": "Web Developer (Frontend) at StackTrek - HackQuest",
-                "icon": "https://logo.clearbit.com/www.hackquest.io",
-                "url": "https://www.hackquest.io/zh-cn/jobs/322605"
-              },
-              {
-                "type": "link",
-                "addDate": 1749185152412,
-                "title": "abetterweb3",
-                "icon": "https://logo.clearbit.com/abetterweb3.notion.site",
-                "url": "https://abetterweb3.notion.site/"
-              },
-              {
-                "type": "link",
-                "addDate": 1749186369952,
-                "title": "Blockchain.com 的職位",
-                "icon": "https://logo.clearbit.com/job-boards.greenhouse.io",
-                "url": "https://job-boards.greenhouse.io/blockchain?gh_src=cryptocurrencyjobs.co"
-              },
-              {
-                "type": "link",
-                "addDate": 1749186697101,
-                "title": "Wellfound (formerly AngelList Talent) - Startup Job Search",
-                "icon": "https://logo.clearbit.com/wellfound.com",
-                "url": "https://wellfound.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1749186863306,
-                "title": "Dream Startup Job",
-                "icon": "https://logo.clearbit.com/www.dreamstartupjob.com",
-                "url": "https://www.dreamstartupjob.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1749187428405,
-                "title": "Issues · rebase-network/who-is-hiring",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/rebase-network/who-is-hiring/issues/?q=sort%3Aupdated-desc%20is%3Aissue%20is%3Aopen%20Front-end"
-              },
-              {
-                "type": "link",
-                "addDate": 1749188108646,
-                "title": "rebase-network/who-is-hiring: 这个仓库是由 Rebase 社区创建的，为区块链行业以及其他各行各业的企业和团队提供招聘信息披露机会，所有招聘信息都将在 Rebase 社区的所有媒体上进行发表。这都是免费的！",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/rebase-network/who-is-hiring"
-              },
-              {
-                "type": "link",
-                "addDate": 1749190455541,
-                "title": "X-Team 的职位 --- Jobs at X-Team",
-                "icon": "https://logo.clearbit.com/jobs.x-team.com",
-                "url": "https://jobs.x-team.com/jobs/2115/"
-              },
-              {
-                "type": "link",
-                "addDate": 1749191157644,
-                "title": "TG招聘-全球找工作上TG招聘直接谈！招聘求职找工作！",
-                "icon": "https://logo.clearbit.com/www.jobtg.ai",
-                "url": "https://www.jobtg.ai/"
-              },
-              {
-                "type": "link",
-                "addDate": 1749279132735,
-                "title": "人才库（按编辑时间由新到旧） | 开发",
-                "icon": "https://logo.clearbit.com/abetterweb3.notion.site",
-                "url": "https://abetterweb3.notion.site/57b3f805061944229c495d20284ce161?v=12b6d57e7e7740c193d6d79e5da46807"
-              },
-              {
-                "type": "link",
-                "addDate": 1751018738124,
-                "title": "DeJob 专注于Web3、远程招聘",
-                "icon": "https://logo.clearbit.com/www.dejob.top",
-                "url": "https://www.dejob.top/"
-              },
-              {
-                "type": "link",
-                "addDate": 1751260566859,
-                "title": "远程岗位 前端开发者工作 | Upwork™ --- Frontend Developer Jobs | Upwork™",
-                "icon": "https://logo.clearbit.com/www.upwork.com",
-                "url": "https://www.upwork.com/freelance-jobs/frontend-development/"
-              },
-              {
-                "type": "link",
-                "addDate": 1750051532080,
-                "title": "HitaJobs Web3、区块链、远程招聘",
-                "icon": "https://logo.clearbit.com/hitajobs.com",
-                "url": "https://hitajobs.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1751278745715,
-                "title": "‌⁣⁢⁢‬⁣⁣​‍⁤‌⁣﻿​⁣⁤⁡⁡​⁢‬‌‬⁢​⁢​﻿​⁢​⁡⁤﻿‌​‬‌‍﻿​⁢‬‬​‬⁡‌​﻿web3岗位资源管理对外版 - 飞书云文档",
-                "icon": "https://logo.clearbit.com/h5mjscvxuj.feishu.cn",
-                "url": "https://h5mjscvxuj.feishu.cn/sheets/ScdYsiuRMhTjzFt0rdXcCyshnom"
-              },
-              {
-                "type": "link",
-                "addDate": 1751289039594,
-                "title": "Explore Top Web3 and Crypto Jobs| Bondex",
-                "icon": "https://logo.clearbit.com/bondex.app",
-                "url": "https://bondex.app/job-portal?department=Engineering&workingStyle=Remote&experience=&jobType=&page=1&count=60&hasBounty=false&search=front-end&location=&orderBy=1"
-              },
-              {
-                "type": "link",
-                "addDate": 1751343459803,
-                "title": "Job3  岗位",
-                "icon": "https://logo.clearbit.com/h5.job3.co",
-                "url": "https://h5.job3.co/"
-              },
-              {
-                "type": "link",
-                "addDate": 1751421912808,
-                "title": "Web3jobs Service Network",
-                "icon": "https://logo.clearbit.com/www.jobsweb3.net",
-                "url": "https://www.jobsweb3.net/#/position"
-              },
-              {
-                "type": "link",
-                "addDate": 1751601553167,
-                "title": "Bossjob - A Chat-first Career Platform for Professionals in Global Countries",
-                "icon": "https://logo.clearbit.com/bossjob.com",
-                "url": "https://bossjob.com/en-us/jobseeker-complete-profile?step=1&from=chat&chatJobId=335920"
-              }
-            ]
+            "type": "link",
+            "addDate": 1751871646790,
+            "title": "字节跳动内推",
+            "icon": "https://logo.clearbit.com/jobs.bytedance.com",
+            "url": "https://jobs.bytedance.com/referral/pc/position?token=MzsxNzM5NTE2MTQzMzE4OzY5NDU2NDExNzc5NDk0MDY3Mjc7MDsx"
           }
         ]
       },
@@ -21105,6 +20825,13 @@
             "title": "milanvarady/Applite: User-friendly GUI macOS application for Homebrew Casks",
             "icon": "https://logo.clearbit.com/github.com",
             "url": "https://github.com/milanvarady/Applite#download"
+          },
+          {
+            "type": "link",
+            "addDate": 1751872079858,
+            "title": "互联网上最大的免费资源集合 新手指南 • freemediaheckyeah --- Beginners Guide • freemediaheckyeah",
+            "icon": "https://logo.clearbit.com/fmhy.net",
+            "url": "https://fmhy.net/beginners-guide"
           }
         ]
       },
@@ -21140,13 +20867,6 @@
             "title": "Online Video Downloader: Save Any Video Online For Free",
             "icon": "https://logo.clearbit.com/www.tubeninja.net",
             "url": "https://www.tubeninja.net/welcome?url=https%3A%2F%2Fyoutu.be%2F9akFwNIApW0"
-          },
-          {
-            "type": "link",
-            "addDate": 1696904914324,
-            "title": "Youtube Downloader - Free Online Youtube Video Downloader | vget.xyz",
-            "icon": "https://logo.clearbit.com/vget.xyz",
-            "url": "https://vget.xyz/dl"
           },
           {
             "type": "link",
@@ -21968,6 +21688,34 @@
         "title": "Seelen UI - Seelen 全新的桌面体验",
         "icon": "https://logo.clearbit.com/seelen.io",
         "url": "https://seelen.io/zh/apps/seelen-ui"
+      },
+      {
+        "type": "link",
+        "addDate": 1752284064670,
+        "title": "大厂项目复盘",
+        "icon": "https://logo.clearbit.com/www.yuque.com",
+        "url": "https://www.yuque.com/wikidesign/ykf0s9"
+      },
+      {
+        "type": "link",
+        "addDate": 1754125701506,
+        "title": "在APKPure使用免费在线APK下载器下载APK到安卓",
+        "icon": "https://logo.clearbit.com/apkpure.com",
+        "url": "https://apkpure.com/cn/"
+      },
+      {
+        "type": "folder",
+        "addDate": 1754126564965,
+        "title": "跨境电商",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1754126539547,
+            "title": "TikTok Downloader | 在线下载无水印 TikTok 视频 --- TikTok Downloader | Download TikTok Video Without Watermark Online",
+            "icon": "https://logo.clearbit.com/musicaldown.com",
+            "url": "https://musicaldown.com/en"
+          }
+        ]
       }
     ]
   }
